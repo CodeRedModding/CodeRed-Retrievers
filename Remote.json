@@ -1,0 +1,13 @@
+[
+	{
+		"Psyonix_Version": "210831.56968.342135",
+		"Installer_Version": "1.0",
+		"Launcher_Version": "1.0.0",
+		"Module_Version": "0.1",
+		"Installer_Url": "Installer_Reponse_Debug",
+		"Launcher_Url": "Launcher_Response_Debug",
+		"Module_Url": "Module_Reponse_Debug",
+		"Discord_Url": "Discord_Reponse_Debug",
+		"Changelog": "You are using the first public release of CodeRed Alpha!\nPlease report any bugs or suggestions to the Discord server!",
+	}
+]
