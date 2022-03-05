@@ -1,1 +1,3 @@
-{ "CustomRequests": "true" }
+{
+	"CustomRequests": true
+}
