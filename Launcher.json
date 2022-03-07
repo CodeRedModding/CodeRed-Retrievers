@@ -1,13 +1,13 @@
 {
-  "PsyonixVersion": "220128.58061.363257",
-  "LauncherVersion": "1.0.0",
-  "ModuleVersion": "0.1",
-  "UninstallerUrl": "https://github.com/CodeRedModding/CodeRed-Retrievers/releases/download/LatestDebug/CodeRedUninstaller.zip",
-  "LauncherUrl": "https://github.com/CodeRedModding/CodeRed-Retrievers/releases/download/LatestDebug/CodeRedLauncher.zip",
-  "ModuleUrl": "https://github.com/CodeRedModding/CodeRed-Retrievers/releases/download/LatestDebug/CodeRedModule.zip",
-  "DropperUrl": "https://github.com/CodeRedModding/CodeRed-Retrievers/releases/download/LatestDebug/CodeRedDropper.zip",
-  "DiscordUrl": "https://discord.gg/",
-  "NewsUrl": "https://www.rocketleague.com/ajax/articles-results/?p=0&lang=en-us",
-  "LauncherChangelog": "You are using the first public release of the launcher, no changes to provide.",
-  "ModuleChangelog": "You are using the first public release of CodeRed Alpha!\nPlease report any bugs or suggestions to the Discord server!"
+    "PsyonixVersion": "220128.58061.363257",
+    "LauncherVersion": "1.0.0",
+    "ModuleVersion": "0.1",
+    "UninstallerUrl": "https://github.com/CodeRedModding/CodeRed-Retrievers/releases/download/LatestDebug/CodeRedUninstaller.zip",
+    "LauncherUrl": "https://github.com/CodeRedModding/CodeRed-Retrievers/releases/download/LatestDebug/CodeRedLauncher.zip",
+    "ModuleUrl": "https://github.com/CodeRedModding/CodeRed-Retrievers/releases/download/LatestDebug/CodeRedModule.zip",
+    "DropperUrl": "https://github.com/CodeRedModding/CodeRed-Retrievers/releases/download/LatestDebug/CodeRedDropper.zip",
+    "DiscordUrl": "https://discord.gg/",
+    "NewsUrl": "https://www.rocketleague.com/ajax/articles-results/?p=0&lang=en-us",
+    "LauncherChangelog": "You are using the first public release of the launcher, no changes to provide.",
+    "ModuleChangelog": "You are using the first public release of CodeRed Alpha!\nPlease report any bugs or suggestions to the Discord server!"
 }
