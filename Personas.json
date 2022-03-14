@@ -1,6 +1,14 @@
 [
-	{ "Location": "00111100<1=1<87", "Pointer": "5", "Offset": "32" },
-	{ "Location": "301C2GKJ040GG324KC23F03E1JJ2114L", "Pointer": "15", "Offset": "32" },	
 	{ "Location": "00111101972505?", "Pointer": "5", "Offset": "32" },
-	{ "Location": "K4GC4C21CCKFG1LLK2KKE1HDDG2EKH4J", "Pointer": "15", "Offset": "32" }
+	{ "Location": "301C2GKJ040GG324KC23F03E1JJ2114L", "Pointer": "15", "Offset": "32" },
+	{ "Location": "001111013>54842", "Pointer": "5", "Offset": "48" },
+	{ "Location": "1GDHL4294967295HCH0F0GJHH4294967295FEHJ24GJL4294967295HKJ20", "Pointer": "15", "Offset": "48" },
+	{ "Location": "C4294967295HEG23LF44EGGLJ0LDL11CH24294967295J420C4", "Pointer": "15", "Offset": "32" },
+	{ "Location": "001111034>>=57<", "Pointer": "5", "Offset": "32" },
+	{ "Location": "0011110145@78>2", "Pointer": "5", "Offset": "48" },
+	{ "Location": "G0G4DGLGE0DHGHJ04294967295LC2EJF4294967295EC4294967295E0JED", "Pointer": "15", "Offset": "32" },
+	{ "Location": "001111015573@?0", "Pointer": "5", "Offset": "32" },
+	{ "Location": "K4GC4C21CCKFG1LLK2KKE1HDDG2EKH4J", "Pointer": "15", "Offset": "32" },
+	{ "Location": "1GK40EIFJIH2G4294967295G1LGH2HCKD12J24294967295F2F", "Pointer": "15", "Offset": "48" },
+	{ "Location": "00111100<1=1<87", "Pointer": "5", "Offset": "32" }
 ]
