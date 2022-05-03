@@ -1,3 +1,5 @@
 {
-	"CustomRequests": "true"
+	"CustomRequests": "true",
+	"GarageModule": "true",
+	"TitleModule": "true"
 }
