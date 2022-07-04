@@ -1,7 +1,7 @@
 {
-	"PsyonixVersion": "220429.73292.378534",
+	"PsyonixVersion": "220620.62247.385252",
 	"LauncherVersion": "1.0.0",
-	"ModuleVersion": "0.1",
+	"ModuleVersion": "1.0.0",
 	"UninstallerUrl": "https://github.com/CodeRedModding/CodeRed-Retrievers/releases/download/LatestDebug/CodeRedUninstaller.zip",
 	"LauncherUrl": "https://github.com/CodeRedModding/CodeRed-Retrievers/releases/download/LatestDebug/CodeRedLauncher.zip",
 	"ModuleUrl": "https://github.com/CodeRedModding/CodeRed-Retrievers/releases/download/LatestDebug/CodeRedModule.zip",
