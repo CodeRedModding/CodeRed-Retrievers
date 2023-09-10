@@ -33,8 +33,8 @@
         {
             "id": "Q1JfU3RhZmY=",
             "text": "Q29kZVJlZCBEaXNjb3JkIFN0YWZm",
-            "text_color": "MA==",
-            "glow_color": "MA=="
+            "text_color": "MTY3MjQ1MTc=",
+            "glow_color": "MTY3Mzc2MzA="
         },
         {
             "id": "Q1JfQm9vc3Rlcg==",
@@ -45,8 +45,8 @@
         {
             "id": "Q1JfRG9uYXRvcg==",
             "text": "Q29kZVJlZCBTdXBwb3J0ZXI=",
-            "text_color": "NjI4ODYzOQ==",
-            "glow_color": "NjExODM="
+            "text_color": "MjAyNzc3NQ==",
+            "glow_color": "NjgxMzE4Mw=="
         },
         {
             "id": "Q1JfQWxwaGFfVGVzdGVy",
