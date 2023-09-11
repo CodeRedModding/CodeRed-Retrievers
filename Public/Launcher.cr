@@ -14,7 +14,7 @@
     "ModulesAlt": "null",
     "PropertiesAlt": "null",
     "VariablesAlt": "null",
-    "LauncherChangelog": "- Remade the launchers UI with a new color scheme, new icons, and added a light mode.\n- The `export crash logs` button in the launcher now also adds your variables file from CodeRed to the zip.\n- Fixed the launcher not loading at all if you tried to run it while not connected to the internet.\n- Fixed the launcher not auto-checking for updates when you enabled it through the checkbox.\n- Fixed the launchers previous and next buttons in the news tab having the wrong icons.",
+    "LauncherChangelog": "Remade the launchers UI with a new color scheme, new icons, and added a light mode.\nThe `export crash logs` button in the launcher now also adds your variables file from CodeRed to the zip.\n- Fixed the launcher not loading at all if you tried to run it while not connected to the internet.\n- Fixed the launcher not auto-checking for updates when you enabled it through the checkbox.\n- Fixed the launchers previous and next buttons in the news tab having the wrong icons.",
     "ModuleChangelog": "Enabled custom profiles again in the Textures tab.\nFixed multiple crashes related to custom textures such as borders, banners, and avatars\nFixed custom avatars not applying when picking a team in private matches sometimes.\nImportant internal backend changes to the API.",
     "Credits": "Bakkes, Martinn, TaylorSasser, ButternCream, GlenHumphrey, ToolB0x, lchmagKekse, and Megasplat/Aberinkula/FrancesElMute",
     "Supporters": "Synexe",
