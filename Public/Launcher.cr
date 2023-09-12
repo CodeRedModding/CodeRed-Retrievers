@@ -1,6 +1,6 @@
 {
     "PsyonixVersion": "230823.66121.430366",
-    "LauncherVersion": "1.2.2",
+    "LauncherVersion": "1.2.3",
     "ModuleVersion": "1.8.2",
     "UninstallerUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v1.8.2/CodeRedUninstaller.zip",
     "LauncherUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v1.8.2/CodeRedLauncher.zip",
@@ -14,7 +14,7 @@
     "ModulesAlt": "null",
     "PropertiesAlt": "null",
     "VariablesAlt": "null",
-    "LauncherChangelog": "Remade the launchers UI with a new color scheme, new icons, and added a light mode.\nThe `export crash logs` button in the launcher now also adds your variables file from CodeRed to the zip.\nFixed the launcher not loading at all if you tried to run it while not connected to the internet.\nFixed the launcher not auto-checking for updates when you enabled it through the checkbox.\nFixed the launchers previous and next buttons in the news tab having the wrong icons.",
+    "LauncherChangelog": "Remade the launchers UI with a new color scheme, new icons, and added a light mode.\nThe `export crash logs` button in the launcher now also adds your variables file from CodeRed to the zip.\nFixed the launcher not loading at all if you tried to run it while not connected to the internet.\nFixed the launcher not auto-checking for updates when you enabled it through the checkbox.\nFixed the launchers previous and next buttons in the news tab having the wrong icons.\nFixed a bug that caused your settings file to be parsed wrong.",
     "ModuleChangelog": "Enabled custom profiles again in the Textures tab.\nFixed multiple crashes related to custom textures such as borders, banners, and avatars\nFixed custom avatars not applying when picking a team in private matches sometimes.\nImportant internal backend changes to the API.",
     "Credits": "Bakkes, Martinn, TaylorSasser, ButternCream, GlenHumphrey, ToolB0x, lchmagKekse, and Megasplat/Aberinkula/FrancesElMute",
     "Supporters": "Synexe",
