@@ -1,6 +1,6 @@
 {
     "PsyonixVersion": "230823.66121.430366",
-    "LauncherVersion": "1.2.4",
+    "LauncherVersion": "1.2.5",
     "ModuleVersion": "1.8.3",
     "UninstallerUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v1.8.3/CodeRedUninstaller.zip",
     "LauncherUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v1.8.3/CodeRedLauncher.zip",
