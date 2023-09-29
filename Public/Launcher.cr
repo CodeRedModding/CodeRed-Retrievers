@@ -1,6 +1,6 @@
 {
     "PsyonixVersion": "230823.66121.430366",
-    "LauncherVersion": "1.2.5",
+    "LauncherVersion": "1.2.6",
     "ModuleVersion": "1.8.5",
     "UninstallerUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v1.8.5/CodeRedUninstaller.zip",
     "LauncherUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v1.8.5/CodeRedLauncher.zip",
@@ -14,7 +14,7 @@
     "ModulesAlt": "null",
     "PropertiesAlt": "null",
     "VariablesAlt": "null",
-    "LauncherChangelog": "Added a `already running` warning if you try to open more than one launcher at once, which asks if you wish to continue or exit.\nMade all custom controls double buffered, UI elements should now be a lot smoother.\nChanged the font size of the changelog box to be slightly smaller to fit more text.\nFixed some popups being in dark mode despite having the light mode setting enabled.\nFixed the installer popup not having any fancy graphics like all of the other popups.\nFixed the news tab not defaulting to display the very first news article downloaded.\nAdditional safety improvements regarding reading and writing to file paths.",
+    "LauncherChangelog": "Added a new `auto install updates` setting, which will auto download and install updates in the background.\nFixed the windows icon not being the same as the exe icon.\nFixed some capitalization and spelling errors.",
     "ModuleChangelog": "Enabled custom playlist textures again in the Textures tab again.\nRenamed the imgui_console_debug command to imgui_terminal_debug.\nChanged some of the default terminal text colors to be slightly lighter.\nFixed a crash that could happen after first joining a game if another player wasn't fully loaded in yet.\nFixed the training_freeplay_map and training_random_map settings not working on training packs you didn't have favorited.\nFixed the thumbnail renderer getting stuck if you swapped between products too fast and tried to render them.\nFixed the thumbnail renderer having a delay for non-scene products when there wasn't suppose to be.\nTrying another experimental fix for alt-tabbing crashes.\nAdditional optimization and improvements.",
     "Credits": "Bakkes, Martinn, TaylorSasser, ButternCream, GlenHumphrey, ToolB0x, lchmagKekse, and Megasplat/Aberinkula/FrancesElMute",
     "Supporters": "Synexe",
