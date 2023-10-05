@@ -31,12 +31,6 @@
             "glow_color": "MA=="
         },
         {
-            "id": "Q1JfRWRpdA==",
-            "text": "UGxhY2Vob2xkZXIgVGV4dA==",
-            "text_color": "MA==",
-            "glow_color": "MA=="
-        },
-        {
             "id": "Q1JfU3RhZmY=",
             "text": "Q29kZVJlZCBEaXNjb3JkIFN0YWZm",
             "text_color": "MTY3MjQ1MTc=",
