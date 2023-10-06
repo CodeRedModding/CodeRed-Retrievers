@@ -34,7 +34,7 @@
             "id": "Q1JfU3RhZmY=",
             "text": "Q29kZVJlZCBEaXNjb3JkIFN0YWZm",
             "text_color": "MTY3MjQ1MTc=",
-            "glow_color": "MTY3Mzc2MzA="
+            "glow_color": "MTY3MjgzNzY="
         },
         {
             "id": "Q1JfQm9vc3Rlcg==",
