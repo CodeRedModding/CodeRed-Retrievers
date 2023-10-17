@@ -1,11 +1,11 @@
 {
-	"signature": "0b26c8b5a4c46dea8ba425783cef4cd173188fbbb618455721339c7f46ca7e8b",
+	"signature": "7aa2b2f3e45dd9433ecc89c59966cdabadce98919bd60d1479e43fc601ec7106",
 	"titles": [
 		{
-			"id": "Q1JfRmVtYm95X0VudGh1c2lhc3Q=",
-			"text": "RmVtYm95IEVudGh1c2lhc3Q=",
-			"text_color": "MTM2NzI3NQ==",
-			"glow_color": "OTU2MTg1MA=="
+			"id": "Q1JfUXVlZXI=",
+			"text": "QWxwaGFiZXQgTWFmaWEgTWVtYmVy",
+			"text_color": "MTE0NDI2ODc=",
+			"glow_color": "ODgwMDI1NQ=="
 		},
 		{
 			"id": "Q1JfSG9tb3NleHVhbA==",
@@ -18,6 +18,18 @@
 			"text": "VmVyaWZpZWQgQm95IEtpc3Nlcg==",
 			"text_color": "MTY3MzYyNDU=",
 			"glow_color": "MTY3MTE5MDU="
+		},
+		{
+			"id": "Q1JfR2lybF9LaXNzZXI=",
+			"text": "VmVyaWZpZWQgR2lybCBLaXNzZXI=",
+			"text_color": "MTY3MzYyNDU=",
+			"glow_color": "MTY3MTE5MDU="
+		},
+		{
+			"id": "Q1JfRmVtYm95",
+			"text": "RmVtYm95IEVudGh1c2lhc3Q=",
+			"text_color": "MTM2NzI3NQ==",
+			"glow_color": "OTU2MTg1MA=="
 		},
 {
 			"id": "Q1JfQm91bnR5X0h1bnRlcg==",
