@@ -31,7 +31,7 @@
 			"text_color": "MTM2NzI3NQ==",
 			"glow_color": "OTU2MTg1MA=="
 		},
-{
+		{
 			"id": "Q1JfQm91bnR5X0h1bnRlcg==",
 			"text": "SGFja2VyT25lIEJvdW50eSBIdW50ZXI=",
 			"text_color": "MTY3NzcyMTU=",
