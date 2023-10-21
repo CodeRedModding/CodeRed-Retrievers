@@ -1,6 +1,6 @@
 {
     "PsyonixVersion": "231010.63095.433650",
-    "LauncherVersion": "1.2.6",
+    "LauncherVersion": "1.2.7",
     "ModuleVersion": "1.8.7",
     "UninstallerUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v1.8.7/CodeRedUninstaller.zip",
     "LauncherUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v1.8.7/CodeRedLauncher.zip",
@@ -14,7 +14,7 @@
     "ModulesAlt": "null",
     "PropertiesAlt": "null",
     "VariablesAlt": "null",
-    "LauncherChangelog": "Added a new `auto install updates` setting, which will auto download and install updates in the background.\nFixed the windows icon not being the same as the exe icon.\nFixed some capitalization and spelling errors.",
+    "LauncherChangelog": "Changed the formatting for settings and labels in the about tab slightly.\nChanged the capitalizations for all the buttons for consistency reasons.\nFixed the news tab downloading article data and images twice in the background on startup.",
     "ModuleChangelog": "Added a new command interface_chat_private, which displays a chat message in chat that only you can see.\nFixed a rare random crash that could happen right after injection caused by a thread racing issue.\nUpdated internal SDK to the latest version of Rocket League.",
     "Credits": "Bakkes, Martinn, TaylorSasser, ButternCream, GlenHumphrey, ToolB0x, lchmagKekse, and Megasplat/Aberinkula/FrancesElMute",
     "Supporters": "Synexe",
