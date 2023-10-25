@@ -1,6 +1,6 @@
 {
     "PsyonixVersion": "231010.63095.433650",
-    "LauncherVersion": "1.2.7",
+    "LauncherVersion": "1.2.8",
     "ModuleVersion": "1.8.8",
     "UninstallerUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v1.8.8/CodeRedUninstaller.zip",
     "LauncherUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v1.8.8/CodeRedLauncher.zip",
@@ -14,7 +14,7 @@
     "ModulesAlt": "null",
     "PropertiesAlt": "null",
     "VariablesAlt": "null",
-    "LauncherChangelog": "Changed the formatting for settings and labels in the about tab slightly.\nChanged the capitalizations for all the buttons for consistency reasons.\nFixed the news tab downloading article data and images twice in the background on startup.",
+    "LauncherChangelog": "Added a `update in progress` status on the dashboard to indicate a update is being downloaded.\nFixed the injection delay setting not being parsed correctly.\nFixed some popups not being double buffered.",
     "ModuleChangelog": "Added a new Goal Scoring header under the Freeplay tab in the dashboard.\nAdded a new setting freeplay_goal_speed, which will post the speed of freeplay goals in chat.\nAdded a new setting freeplay_goal_precision, which controls the decimal precision when showing the goals speed.\nAdded a new setting scoreboard_update_precision, which controls the decimal precision for mmr gained/lost for players on the scoreboard.\nFixed the commands to apply location/velocity to the ball and player applying during goal replays.\nFixed some issues with CodeRed thinking you were playing in offline mode.",
     "Credits": "Bakkes, Martinn, TaylorSasser, ButternCream, GlenHumphrey, ToolB0x, lchmagKekse, and Megasplat/Aberinkula/FrancesElMute",
     "Supporters": "Synexe",
