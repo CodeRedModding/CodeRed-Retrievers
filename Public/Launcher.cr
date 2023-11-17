@@ -1,6 +1,6 @@
 {
     "PsyonixVersion": "231010.63095.433650",
-    "LauncherVersion": "1.2.8",
+    "LauncherVersion": "1.2.9",
     "ModuleVersion": "1.9.0",
     "UninstallerUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v1.9.0/CodeRedUninstaller.zip",
     "LauncherUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v1.9.0/CodeRedLauncher.zip",
@@ -14,7 +14,7 @@
     "ModulesAlt": "null",
     "PropertiesAlt": "null",
     "VariablesAlt": "null",
-    "LauncherChangelog": "Added a `update in progress` status on the dashboard to indicate a update is being downloaded.\nFixed the injection delay setting not being parsed correctly.\nFixed some popups not being double buffered.",
+    "LauncherChangelog": "Upgraded from `.NET 7.0` to `.NET 8.0`, which will require you to download the new runtime if you only have `.NET 7.0` installed.\nAdded more files and extra logging info for the crash dump exporter.\nFixed not finding a folder path bug on first install, which would require restarting the launcher.\nFixed the manual inject button not working sometimes, as well as it ignoring the `prevent injection when out of date` setting.",
     "ModuleChangelog": "Added a new setting freeplay_goal_speed_training which allows logging goal speed in custom training packs.\nAdded a new setting freeplay_goal_speed_offline which allows logging goal speed in exhibition and lan modes.\nAdded a new setting freeplay_goal_speed_online which allows logging goal speed in all online game modes.\nAdded a new setting function_scanner_duplicates <true-false> which allows changing the Hide Duplicates option in the function scanner off and on.\nAdded a new command function_scanner_start which lets you start the function scanner through a command or keybind.\nAdded a new command function_scanner_stop which lets you stop the function scanner through a command or keybind.\nAdded support for block compression BC7 and all other modern DXT10 formats for texture exporting.\nAdded support super small legacy packed formats (R8, G8, and UYVY) for texture exporting.\nFixed the block compression BC1 format sometimes exporting misaligned image data.\nFixed the thumbnail renderer not collecting garbage properly, resulting in a memory leak when using the automation mode.\nFixed preview images in the texture browser and thumbnail renderer not displaying properly sometimes.\nFixed the freeplay_disable_training setting not instantly updating goal scoring when toggled off and on.\nFixed the freeplay_goal_speed setting sometimes spamming chat when a goal gets scored.\nThe freeplay_disable_hotkeys setting will now automatically hide the games hotkey overlay if enabled in freeplay.",
     "Credits": "Bakkes, Martinn, TaylorSasser, ButternCream, GlenHumphrey, ToolB0x, lchmagKekse, and Megasplat/Aberinkula/FrancesElMute",
     "Supporters": "Synexe",
