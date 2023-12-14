@@ -1,6 +1,6 @@
 {
     "PsyonixVersion": "231116.66933.436861",
-    "LauncherVersion": "1.3.0",
+    "LauncherVersion": "1.3.1",
     "ModuleVersion": "1.9.4",
     "UninstallerUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v1.9.4/CodeRedUninstaller.zip",
     "LauncherUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v1.9.4/CodeRedLauncher.zip",
@@ -14,7 +14,7 @@
     "ModulesAlt": "null",
     "PropertiesAlt": "null",
     "VariablesAlt": "null",
-    "LauncherChangelog": "Added more detailed logging when downloading and installing updates.\nOptimizations for the news tab, if an update is found it will now wait before downloading articles and images until the update is finished.\nFixed a crash that could happen if your download speed was slow or had packet loss and the download stopped momentarily.",
+    "LauncherChangelog": "Fixed another bug related to the news article tabs not loading.\nFixed a rare bug that caused checking for an update while actively installing an update.\nInternal improvements and logging for downloading files.",
     "ModuleChangelog": "Remade all the custom example playlist textures to match the games new UI.\nRemade the matchmaker window to be fully dynamic, you can now search limited time events and rotating competitive playlists that match the games new UI.\nYou can now change where notifications appear with the `imgui_notification_corner` setting. 1 is top right, 2 is top left, 3 is bottom left, and 4 is bottom right.\nThe gamestate debugger can now be repositioned just like the session tracker, hold ctrl and double right click on the window for options.\nFixed profiles sometimes not applying fully when first loading into freeplay or custom training packs.\nFixed the population stats setting not displaying the correct numbers, it was adding the wrong playlists together that you had selected.\nFixed mmr gain and losses showing raw html in playlist descriptions, thanks for removing colored text Psyonix...\nFixed custom playlist info and mmr sometimes not applying on the main menu if you switched between menus.\nFixed the session tracker and gamestate windows showing your cursor on screen due to the last ImGui update.\nOther internal improvements and bug fixes.",
     "Credits": "Bakkes, Martinn, TaylorSasser, ButternCream, GlenHumphrey, ToolB0x, lchmagKekse, and Megasplat/Aberinkula/FrancesElMute",
     "Supporters": "Synexe",
