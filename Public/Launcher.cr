@@ -17,7 +17,7 @@
     "LauncherChangelog": "Fixed another bug related to the news article tabs not loading.\nFixed a rare bug that caused checking for an update while actively installing an update.\nInternal improvements and logging for downloading files.",
     "ModuleChangelog": "Remade the session tracker window to include new icons and stats about your current session.\nAdded a new command `matchmaking_start_casual` which starts searching your selected playlists in the casual tab.\nAdded a new command `matchmaking_start_ranked` which starts searching your selected playlists in the ranked tab.\nFixed a rare case with `matchmaking_start` command sometimes searching in casual even if you were last playing ranked.\nFixed a crash that could happen on the Epic Games Store when you or another player joined a game late.\nFixed a crash related to the texture browser and searching in the textbox.\nFixed special titles not working due to me forgetting to enable a #ifdef.\nFixed your name not updating on the scoreboard if you changed your nickname in the Steam overlay.\nInternal optimizations and improvements.",
     "Credits": "Bakkes, Martinn, TaylorSasser, ButternCream, GlenHumphrey, ToolB0x, lchmagKekse, and Megasplat/Aberinkula/FrancesElMute",
-    "Supporters": "Synexe",
+    "Supporters": "Synexe, MisterDrProf, Th3Ant",
     "Disclaimer": "CodeRed is not officially approved by Psyonix or Epic Games, however, CodeRed still follows Rocket League's ToU, EULA, and rules regarding third party modding. CodeRed does not provide a competitive advantage in online play, expose unreleased features/content, or abuse Rocket League's services.",
     "AltEndpoint": false
 }
