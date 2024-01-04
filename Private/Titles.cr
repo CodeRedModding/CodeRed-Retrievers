@@ -1,11 +1,17 @@
 {
-	"signature": "84bf84db64452fdc3e36f4ad7a447beb0afbec65237fdd06fade44baa4871318",
+	"signature": "df65a9f7718848ed3b1806669da5d00ad17503c950a3e68642077bc62d43ae3f",
 	"titles": [
 		{
 			"id": "Q1JfUXVlZXI=",
 			"text": "QWxwaGFiZXQgTWFmaWEgTWVtYmVy",
 			"text_color": "MTE0NDI2ODc=",
 			"glow_color": "ODgwMDI1NQ=="
+		},
+		{
+			"id": "Q1JfRnVycnk=",
+			"text": "U3VzcGljaW91c2x5IExld2QgRnVycnk=",
+			"text_color": "MTY3MzYyNDU=",
+			"glow_color": "MTY3MTE5MDU="
 		},
 		{
 			"id": "Q1JfSG9tb3NleHVhbA==",
@@ -56,22 +62,10 @@
 			"glow_color": "MTY3MTE5MDU="
 		},
 		{
-			"id": "Q1JfRG9uYXRvcg==",
-			"text": "Q29kZVJlZCBTdXBwb3J0ZXI=",
-			"text_color": "MjAyNzc3NQ==",
-			"glow_color": "NjgxMzE4Mw=="
-		},
-		{
 			"id": "Q1JfU3VwcG9ydGVy",
 			"text": "Q29kZVJlZCBTdXBwb3J0ZXI=",
 			"text_color": "MjAyNzc3NQ==",
 			"glow_color": "NjgxMzE4Mw=="
-		},
-		{
-			"id": "Q1JfU3VwZXJfU3VwcG9ydGVy",
-			"text": "Q29kZVJlZCBTdXBwb3J0ZXI=",
-			"text_color": "MjQyNDc0MA==",
-			"glow_color": "NTQzOTQxNQ=="
 		},
 		{
 			"id": "Q1JfQWxwaGFfVGVzdGVy",
