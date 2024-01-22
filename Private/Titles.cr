@@ -1,7 +1,7 @@
 {
 	"signature": "b5f699ed34d58f72b678e388bc88ae23632e3ba6ecb9783d84e99e88a65a1a36",
 	"titles": [
-{
+		{
 			"id": "Q1JfUXVlZXI=",
 			"text": "QWxwaGFiZXQgTWFmaWEgTWVtYmVy",
 			"text_color": "MTE0NDI2ODc=",
