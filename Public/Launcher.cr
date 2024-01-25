@@ -19,5 +19,6 @@
     "Credits": "Bakkes, Martinn, TaylorSasser, ButternCream, GlenHumphrey, ToolB0x, lchmagKekse, and Megasplat/Aberinkula/FrancesElMute",
     "Supporters": "Synexe, MisterDrProf, Th3Ant",
     "Disclaimer": "CodeRed is not officially approved by Psyonix or Epic Games, however, CodeRed still follows Rocket League's ToU, EULA, and rules regarding third party modding. CodeRed does not provide a competitive advantage in online play, expose unreleased features/content, or abuse Rocket League's services.",
-    "AltEndpoint": false
+    "AltEndpoint": false,
+    "EmbedsValid": true
 }
