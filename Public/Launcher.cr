@@ -9,7 +9,7 @@
     "WebsiteUrl": "https://coderedmodding.github.io/",
     "DiscordUrl": "https://discord.com/invite/VenX9kKF5B",
     "KofiUrl": "https://ko-fi.com/coderedmodding/",
-    "NewsUrl": "https://www.rocketleague.com/ajax/articles-results/?p=0&lang=en-us",
+    "NewsUrl": "https://www.rocketleague.com/en/news/",
     "LauncherAlt": "null",
     "ModulesAlt": "null",
     "PropertiesAlt": "null",
