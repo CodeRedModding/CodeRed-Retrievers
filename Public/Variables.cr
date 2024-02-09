@@ -1,3 +1,3 @@
 {
-
+	"april_fools": "false"
 }
