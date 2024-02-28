@@ -1,6 +1,6 @@
 {
     "PsyonixVersion": "240126.48185.441123",
-    "LauncherVersion": "1.3.3",
+    "LauncherVersion": "1.3.4",
     "ModuleVersion": "2.0.3",
     "UninstallerUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v2.0.3/CodeRedUninstaller.zip",
     "LauncherUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v2.0.3/CodeRedLauncher.zip",
@@ -14,7 +14,7 @@
     "ModulesAlt": "null",
     "PropertiesAlt": "null",
     "VariablesAlt": "null",
-    "LauncherChangelog": "Fixed the news tab not working, Psyonix changed a lot of stuff so I had to remake parsing article info entirely.\nAdditional code refactoring and removing unnecessary or unused code.",
+    "LauncherChangelog": "Fixed the author header in the news tab not displaying names correctly, as well as titles being too long.\nFixed a specific case of the news tab not grabbing articles if you were outdated and had the game running.\nInternal optimizations and improvements related to file streams and memory.",
     "ModuleChangelog": "Added the ability to customize your entire loadout in the garage tab, with the exception of your cars body. Please report any bugs to the Discord server.\nNote that loadouts do not function the exact same as BakkesMod, check out the #announcements channel in the Discord for more info.\nAdded a new `headlight color` option that lets you change the glow color of your headlights, this feature only works if bloom is enabled.\nFixed some ImGui windows opening themselves on injection even if you closed them, this was caused by using the X button instead of pressing escape to close the window.\nFixed your mouse cursor sometimes getting stuck on the screen, this was also related to using the X button instead of pressing escape to close windows.\nFixed a random crash that could happen on the loading screen for offline game modes, this was related to internal game states being set too early.\nFixed not detecting if you were in an Exhibition match, resulting in some features not working in that mode.\nFixed custom stadium colors not saving their values if you changed them through the freeplay or online tab.\nFixed custom spawn location settings not applying for a few specific people when first loading into freeplay.\nFixed custom car colors also not applying for a few specific people when first loading into freeplay.\nFixed custom stadium primary and accent colors not applying to cars after they were demolished.\nFixed some special titles not showing up in the dashboard for some people who had multiple titles.\nFixed a crash that could happen if you spammed enabling and disabling custom textures really fast.\nFixed a crash that happened when opening drops from your inventory on the main menu.\nUpgraded the internal ImGui framework to version 1.9.4.",
     "Credits": "Bakkes, Martinn, TaylorSasser, ButternCream, GlenHumphrey, ToolB0x, lchmagKekse, and Megasplat/Aberinkula/FrancesElMute",
     "Supporters": "Synexe, MisterDrProf, Th3Ant",
