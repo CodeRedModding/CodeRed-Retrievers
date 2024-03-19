@@ -17,7 +17,7 @@
     "LauncherChangelog": "Fixed the author header in the news tab not displaying names correctly, as well as titles being too long.\nFixed a specific case of the news tab not grabbing articles if you were outdated and had the game running.\nInternal optimizations and improvements related to file streams and memory.",
     "ModuleChangelog": "Improved the naming of duplicate products with different editions in the garage tab, as well as in the thumbnail renderer.\nFixed some paints still applying to products even if you clicked `Nothing selected` in the garage tab.\nFixed your real loadouts trail paint not applying in game, I accidentally reverted this fix last update.\nFixed the main menu background not restoring to its original one if you selected `Don't Change Background`.\nFixed a rare edge case crash that could happen on the Steam version of the game on injection.\nFixed the main menu background changer not instantly changing upon injection.\nFixed a potential memory leak related to strings over playing the game for a long time.\nInternal optimizations and improvements.",
     "Credits": "Bakkes, Martinn, TaylorSasser, ButternCream, GlenHumphrey, ToolB0x, lchmagKekse, and Megasplat/Aberinkula/FrancesElMute",
-    "Supporters": "Synexe, MisterDrProf, Th3Ant",
+    "Supporters": "Synexe, MisterDrProf, Th3Ant, Anga, FREE AOL, Mr Reiner",
     "Disclaimer": "CodeRed is not officially approved by Psyonix or Epic Games, however, CodeRed still follows Rocket League's ToU, EULA, and rules regarding third party modding. CodeRed does not provide a competitive advantage in online play, expose unreleased features/content, or abuse Rocket League's services.",
     "AltEndpoint": false,
     "EmbedsValid": true
