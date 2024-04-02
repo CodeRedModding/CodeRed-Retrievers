@@ -1,4 +1,3 @@
 {
-    "april_fools": "true",
-    "april_buttons": "true"
+    "april_fools": "false"
 }
