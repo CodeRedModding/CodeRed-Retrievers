@@ -1,6 +1,6 @@
 {
     "PsyonixVersion": "240315.31710.444908",
-    "LauncherVersion": "1.3.4",
+    "LauncherVersion": "1.3.5",
     "ModuleVersion": "2.0.8",
     "UninstallerUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v2.0.8/CodeRedUninstaller.zip",
     "LauncherUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v2.0.8/CodeRedLauncher.zip",
@@ -14,7 +14,7 @@
     "ModulesAlt": "null",
     "PropertiesAlt": "null",
     "VariablesAlt": "null",
-    "LauncherChangelog": "Fixed the author header in the news tab not displaying names correctly, as well as titles being too long.\nFixed a specific case of the news tab not grabbing articles if you were outdated and had the game running.\nInternal optimizations and improvements related to file streams and memory.",
+    "LauncherChangelog": "Hid the news tab temporarily, as Psyonix is now blocking automatic requests to their site.\nInternal code improvements, as well as changed some naming standards.",
     "ModuleChangelog": "Fixed your boost resetting to default if you had the same one selected both in CodeRed and in-game.\nFixed titles sometimes not applying if you had certain tournament titles equipped in-game.\nFixed disabling boost pads in freeplay not working if you reset your car or scored a goal.\nFixed a case of mmr not applying to playlist nodes when backing in and out of the playlists menu.\nPossibly fixed a random crash that could happen after joining a game (needs more testing).\nInternal memory improvements and optimizations.",
     "Credits": "Bakkes, Martinn, TaylorSasser, ButternCream, GlenHumphrey, ToolB0x, lchmagKekse, and Megasplat/Aberinkula/FrancesElMute",
     "Supporters": "Synexe, MisterDrProf, Th3Ant, Anga, FREE AOL, Mr Reiner",
