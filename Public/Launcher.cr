@@ -16,7 +16,8 @@
 	"Credits": "Bakkes, Martinn, TaylorSasser, ButternCream, GlenHumphrey, ToolB0x, lchmagKekse, and Megasplat/Aberinkula/FrancesElMute",
 	"Supporters": "Synexe, MisterDrProf, Th3Ant, Anga, FREE AOL, Mr Reiner",
 	"Disclaimer": "CodeRed is not officially approved by Psyonix or Epic Games, however, CodeRed still follows Rocket League's ToU, EULA, and rules regarding third party modding. CodeRed does not provide a competitive advantage in online play, expose unreleased features/content, or abuse Rocket League's services.",
-	"EmbedsHash": "VWdmMVBnUC9dQ2cqX0E9XF9pLG5eLF9jUkI9K2BTRj1eVEFRXlI9Y1w/cy1iP2dwU2Zna09Rc0teLTBNUlNBTVRSNHNeUVFxX2ZnMFBBY3VeTzQtUD9fLmFmai1JdTMwTD9qMUpQPDRLZWYySj9qMksrPC9KPDg4",		
+	"EmbedsHash": "VWdmMVBnUC9dQ2cqX0E9XF9pLG5eLF9jUkI9K2BTRj1eVEFRXlI9Y1w/cy1iP2dwU2Zna09Rc0teLTBNUlNBTVRSNHNeUVFxX2ZnMFBBY3VeTzQtUD9fLmFmai1JdTMwTD9qMUpQPDRLZWYySj9qMksrPC9KPDg4",
+	"EmbedsAlt": "S1FnYGAsSWtKLkEyT2ljakksXyphU28yU2dyJkppLCpLLEFNUD8wdGJSPVRcdV9iVEE0b10tZ3JTUTwySUMwK1wsSSZQP0wwUS5uL1NpSTFTUVFeUlFAJlEuZi1KdW4xSys8M0t1MyZLZXImS09fPEtPZjBKPDg4",
 	"EmbedsValid": true,
 	"AltEndpoint": false
 }
