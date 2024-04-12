@@ -1,6 +1,6 @@
 {
 	"PsyonixVersion": "240315.31710.444908",
-	"LauncherVersion": "1.3.5",
+	"LauncherVersion": "1.3.6",
 	"ModuleVersion": "2.1.0",
 	"UninstallerUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v2.1.0/CodeRedUninstaller.zip",
 	"LauncherUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v2.1.0/CodeRedLauncher.zip",
@@ -11,7 +11,7 @@
 	"KofiUrl": "https://ko-fi.com/coderedmodding/",
 	"NewsUrl": "https://www.rocketleague.com/en/news/",
 	"LauncherAlt": "null",
-	"LauncherChangelog": "Hid the news tab temporarily, as Psyonix is now blocking automatic requests to their site.\nInternal code improvements, as well as changed some naming standards.",
+	"LauncherChangelog": "Fixed an infinite loop message box that occurred if you tried to run the launcher without having Rocket League installed.",
 	"ModuleChangelog": "Fixed a rare but critical crash that could happen related to incorrectly parsing json data.\nFixed a bug that could cause CodeRed to think you were playing in offline mode.\nMinor internal optimizations.",
 	"Credits": "Bakkes, Martinn, TaylorSasser, ButternCream, GlenHumphrey, ToolB0x, lchmagKekse, and Megasplat/Aberinkula/FrancesElMute",
 	"Supporters": "Synexe, MisterDrProf, Th3Ant, Anga, FREE AOL, Mr Reiner",
