@@ -1,5 +1,5 @@
 {
-	"signature": "86d35a5957b51f70b1ca4670012a1b1bad9137fdaa8c2d452b89b4cba19a9839",
+	"signature": "5f01bafb81d2b14cda046d467c90608632199b26eb9f0faddf2ea66bae3641e9",
 	"PsyonixVersion": "240315.31710.444908",
 	"LauncherVersion": "1.3.6",
 	"ModuleVersion": "2.1.0",
