@@ -8,7 +8,7 @@
 	"ModuleUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v2.1.0/CodeRedModule.zip",
 	"DropperUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v2.1.0/CodeRedDropper.zip",
 	"WebsiteUrl": "https://coderedmodding.github.io/",
-	"DiscordUrl": "https://discord.com/invite/VenX9kKF5B",
+	"DiscordUrl": "https://discord.com/invite/VenX9kKF5B/",
 	"KofiUrl": "https://ko-fi.com/coderedmodding/",
 	"NewsUrl": "https://www.rocketleague.com/en/news/",
 	"LauncherAlt": "null",
