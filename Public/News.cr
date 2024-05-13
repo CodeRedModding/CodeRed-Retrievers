@@ -3,13 +3,15 @@
     {
       "title": "May the 4th Be with You in Rocket League - Celebrate Star Wars Day 2024!",
       "slug": "may-the-4th-be-with-you-in-rocket-league-celebrate-star-wars-day-2024",
-      "imageUrl": "https://i.imgur.com/poV804a.png"
+      "imageUrl": "https://i.imgur.com/poV804a.png",
+      "author": "Psyonix Team",
+      "published": "2024-05-03"
     },
     {
       "title": "To Me, My X-Men! Mutate Your Ride in the Rocket League | X-Men ‘97 Event",
       "slug": "to-me-my-x-men-mutate-your-ride-in-the-rocket-league-x-men-97-event",
       "imageUrl": "https://i.imgur.com/mQaoEIP.png"
-    }
+    },
     {
       "title": "Patch Notes v2.38",
       "slug": "patch-notes-v2-38",
@@ -34,7 +36,7 @@
       "title": "Patch Notes: Season 14 Live",
       "slug": "patch-notes-season-14-live",
       "imageUrl": "https://i.imgur.com/BXKwExd.png"
-    }
+    },
     {
       "title": "Patch Notes v2.36",
       "slug": "patch-notes-v2-36",
@@ -59,7 +61,7 @@
       "title": "Rocket League Patch Notes v2.35",
       "slug": "patch-notes-v2-35",
       "imageUrl": "https://i.imgur.com/fJOwJhr.png"
-    }
+    },
     {
       "title": "Mandalorian Mayhem: Ready the Hyperdrive in Rocket League!",
       "slug": "mandalorian-mayhem-ready-the-hyperdrive-in-rocket-league",
