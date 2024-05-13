@@ -5,7 +5,7 @@
       "slug": "may-the-4th-be-with-you-in-rocket-league-celebrate-star-wars-day-2024",
       "imageUrl": "https://i.imgur.com/poV804a.png",
       "author": "Psyonix Team",
-      "published": "2024-05-03"
+      "date": "2024-05-03"
     },
     {
       "title": "To Me, My X-Men! Mutate Your Ride in the Rocket League | X-Men ‘97 Event",
