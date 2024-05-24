@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "Rocket League S14’s Season Rush is Here + Season Rewards Revealed!",
+      "slug": "rocket-league-s14s-season-rush-is-here-plus-season-rewards-revealed",
+      "imageUrl": "https://i.imgur.com/fp5pK15.png",
+      "author": "Psyonix Team",
+      "date": "2024-05-21"
+    },
+    {
       "title": "May the 4th Be with You in Rocket League - Celebrate Star Wars Day 2024!",
       "slug": "may-the-4th-be-with-you-in-rocket-league-celebrate-star-wars-day-2024",
       "imageUrl": "https://i.imgur.com/poV804a.png",
@@ -104,13 +111,6 @@
       "imageUrl": "https://i.imgur.com/ZG9v8V9.png",
       "author": "Psyonix Team",
       "date": "2024-01-11"
-    },
-    {
-      "title": "Rocket League’s Frosty Fest Returns for 2023!",
-      "slug": "rocket-leagues-frosty-fest-returns-for-2023",
-      "imageUrl": "https://i.imgur.com/ucdI3fv.png",
-      "author": "Psyonix Team",
-      "date": "2023-12-13"
     }
   ]
 }
