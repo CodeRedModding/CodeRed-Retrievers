@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "Rocket League Season 15: Enter the Fun, Fret, and Fray of Salty Fest! ",
+      "slug": "rocket-league-season-15-enter-the-fun-fret-and-fray-of-salty-fest",
+      "imageUrl": "https://i.imgur.com/OCmnP8B.png",
+      "author": "Psyonix Team",
+      "date": "2024-05-31"
+    },
+    {
       "title": "Rocket League S14’s Season Rush is Here + Season Rewards Revealed!",
       "slug": "rocket-league-s14s-season-rush-is-here-plus-season-rewards-revealed",
       "imageUrl": "https://i.imgur.com/fp5pK15.png",
@@ -104,13 +111,6 @@
       "imageUrl": "https://i.imgur.com/oqITHLU.png",
       "author": "Psyonix Team",
       "date": "2024-02-05"
-    },
-    {
-      "title": "Pave Your Own Path with Sovereign Krew: Aftermarket in Rocket League",
-      "slug": "pave-your-own-path-with-sovereign-krew-aftermarket-in-rocket-league",
-      "imageUrl": "https://i.imgur.com/ZG9v8V9.png",
-      "author": "Psyonix Team",
-      "date": "2024-01-11"
     }
   ]
 }
