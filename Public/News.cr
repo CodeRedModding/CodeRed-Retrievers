@@ -1,7 +1,14 @@
 {
   "news": [
     {
-      "title": "Rocket League Season 15: Enter the Fun, Fret, and Fray of Salty Fest! ",
+	  "title": "Add Items to More of Your Rocket League Cars in v2.40!",
+      "slug": "add-items-to-more-of-your-rocket-league-cars-in-v2-40",
+      "imageUrl": "https://i.imgur.com/qanF0Em.png",
+      "author": "Psyonix Team",
+      "date": "2024-06-04"
+    },
+    {
+      "title": "Rocket League Season 15: Enter the Fun, Fret, and Fray of Salty Fest!",
       "slug": "rocket-league-season-15-enter-the-fun-fret-and-fray-of-salty-fest",
       "imageUrl": "https://i.imgur.com/OCmnP8B.png",
       "author": "Psyonix Team",
@@ -104,13 +111,6 @@
       "imageUrl": "https://i.imgur.com/tEHkuqA.png",
       "author": "Psyonix Team",
       "date": "2024-02-06"
-    },
-    {
-      "title": "Higher Min Level for the Competitive Playlist and New Esports Shop Items Arrive in Rocket League Soon",
-      "slug": "may-the-4th-be-with-you-in-rocket-league-celebrate-star-wars-day-2024",
-      "imageUrl": "https://i.imgur.com/oqITHLU.png",
-      "author": "Psyonix Team",
-      "date": "2024-02-05"
     }
   ]
 }
