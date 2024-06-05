@@ -1,6 +1,13 @@
 {
   "news": [
     {
+	  "title": "Patch Notes v2.40",
+      "slug": "patch-notes-v2-40",
+      "imageUrl": "https://i.imgur.com/4GYQbYg.png",
+      "author": "Psyonix Team",
+      "date": "2024-06-04"
+    },
+    {
 	  "title": "Add Items to More of Your Rocket League Cars in v2.40!",
       "slug": "add-items-to-more-of-your-rocket-league-cars-in-v2-40",
       "imageUrl": "https://i.imgur.com/qanF0Em.png",
@@ -103,13 +110,6 @@
       "slug": "patch-notes-v2-35",
       "imageUrl": "https://i.imgur.com/fJOwJhr.png",
       "author": "Laudie Gonzalez",
-      "date": "2024-02-06"
-    },
-    {
-      "title": "Mandalorian Mayhem: Ready the Hyperdrive in Rocket League!",
-      "slug": "mandalorian-mayhem-ready-the-hyperdrive-in-rocket-league",
-      "imageUrl": "https://i.imgur.com/tEHkuqA.png",
-      "author": "Psyonix Team",
       "date": "2024-02-06"
     }
   ]
