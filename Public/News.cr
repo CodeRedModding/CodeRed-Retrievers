@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "Patch Notes: Season 15 Live",
+      "slug": "patch-notes-season-15-live",
+      "imageUrl": "https://i.imgur.com/ELPRSCY.png",
+      "author": "Devin Connors",
+      "date": "2024-06-05"
+    },
+    {
       "title": "Patch Notes v2.40",
       "slug": "patch-notes-v2-40",
       "imageUrl": "https://i.imgur.com/4GYQbYg.png",
