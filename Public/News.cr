@@ -1,7 +1,7 @@
 {
   "news": [
     {
-	  "title": "Patch Notes v2.40",
+      "title": "Patch Notes v2.40",
       "slug": "patch-notes-v2-40",
       "imageUrl": "https://i.imgur.com/4GYQbYg.png",
       "author": "Psyonix Team",
