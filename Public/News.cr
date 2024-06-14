@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "Changes to Rocket League’s Competitive Rank System for Better Matches",
+      "slug": "changes-to-rocket-leagues-competitive-rank-system-for-better-matches",
+      "imageUrl": "https://i.imgur.com/48JPje4.png",
+      "author": "Psyonix Team",
+      "date": "2024-06-14"
+    },
+    {
       "title": "Patch Notes: Season 15 Live",
       "slug": "patch-notes-season-15-live",
       "imageUrl": "https://i.imgur.com/ELPRSCY.png",
@@ -111,13 +118,6 @@
       "imageUrl": "https://i.imgur.com/ZuHdSr6.png",
       "author": "Psyonix Team",
       "date": "2024-02-21"
-    },
-    {
-      "title": "Rocket League Patch Notes v2.35",
-      "slug": "patch-notes-v2-35",
-      "imageUrl": "https://i.imgur.com/fJOwJhr.png",
-      "author": "Laudie Gonzalez",
-      "date": "2024-02-06"
     }
   ]
 }
