@@ -1,11 +1,18 @@
 {
   "news": [
     {
+      "title": "2024 RLCS London Major Primer + On-Site Guide",
+      "slug": "2024-rlcs-london-major-primer-plus-onsite-guide",
+      "imageUrl": "https://i.imgur.com/0AYqbiQ.png",
+      "author": "Psyonix Team",
+      "date": "2024-06-18"
+    },
+    {
       "title": "Rocket League’s Festival of Football Celebrates Football + RL’s Ninth Birthday!",
       "slug": "rocket-leagues-festival-of-football-celebrates-football-and-rls-ninth-birthday",
       "imageUrl": "https://i.imgur.com/LAHYtU9.png",
       "author": "Psyonix Team",
-      "date": "2024-06-18"
+      "date": "2024-06-17"
     },
     {
       "title": "Changes to Rocket League’s Competitive Rank System for Better Matches",
@@ -118,13 +125,6 @@
       "imageUrl": "https://i.imgur.com/JWVLoSr.png",
       "author": "Laudie Gonzalez",
       "date": "2024-02-23"
-    },
-    {
-      "title": "Keep a Favorite Extra Mode in Rotation with Rocket League’s Dueling Arcade Playlists",
-      "slug": "keep-a-favorite-extra-mode-in-rotation-with-rocket-leagues-dueling-arcade-playlists",
-      "imageUrl": "https://i.imgur.com/ZuHdSr6.png",
-      "author": "Psyonix Team",
-      "date": "2024-02-21"
     }
   ]
 }
