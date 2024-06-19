@@ -1,39 +1,15 @@
 {
-	"signature": "79807dd1e935ca951e4a0d6dddd17bf97da2e29acad72270e3d175409076a22b",
+	"signature": "25a444076586a0b8de6471f9d73d4782b0c2673e7dac866eed5b48b4ea17b49f",
 	"titles": [
 		{
-			"id": "Q1JfQmV0YV9UZXN0ZXI=",
-			"text": "Q29kZVJlZCBCZXRhIFRlc3Rlcg==",
-			"text_color": "NTkzMDQ5NQ==",
-			"glow_color": "MTI2Mjg0NQ=="
+			"id": "Q1JfQ291bnRlcg==",
+			"text": "Q29kZVJlZCBDb3VudGluZyBDaGFtcGlvbg==",
+			"text_color": "MA==",
+			"glow_color": "MA=="
 		},
 		{
 			"id": "Q1JfRnVycnk=",
 			"text": "U3VzcGljaW91c2x5IExld2QgRnVycnk=",
-			"text_color": "MTY3MzYyNDU=",
-			"glow_color": "MTY3MTE5MDU="
-		},
-		{
-			"id": "Q1JfRGV2ZWxvcGVy",
-			"text": "Q29kZVJlZCBEZXZlbG9wZXI=",
-			"text_color": "NjU0NTA=",
-			"glow_color": "NjU1MzU="
-		},
-		{
-			"id": "Q1JfRmVtYm95",
-			"text": "RmVtYm95IEVudGh1c2lhc3Q=",
-			"text_color": "MTM2NzI3NQ==",
-			"glow_color": "OTU2MTg1MA=="
-		},
-		{
-			"id": "Q1JfUXVlZXI=",
-			"text": "QWxwaGFiZXQgTWFmaWEgTWVtYmVy",
-			"text_color": "MTE0NDI2ODc=",
-			"glow_color": "ODgwMDI1NQ=="
-		},
-		{
-			"id": "Q1JfQm9vc3Rlcg==",
-			"text": "Q29kZVJlZCBTZXJ2ZXIgQm9vc3Rlcg==",
 			"text_color": "MTY3MzYyNDU=",
 			"glow_color": "MTY3MTE5MDU="
 		},
@@ -44,46 +20,10 @@
 			"glow_color": "MTY3MTE5MDU="
 		},
 		{
-			"id": "Q1JfRHVtcGVy",
-			"text": "UGxhY2Vob2xkZXIgVGV4dA==",
-			"text_color": "MA==",
-			"glow_color": "MA=="
-		},
-		{
-			"id": "Q1JfQWxwaGFfVGVzdGVy",
-			"text": "Q29kZVJlZCBBbHBoYSBUZXN0ZXI=",
-			"text_color": "MTI3OTc2OTA=",
-			"glow_color": "MTE3OTY3MzU="
-		},
-		{
-			"id": "Q1JfU3VwcG9ydGVy",
-			"text": "Q29kZVJlZCBTdXBwb3J0ZXI=",
-			"text_color": "MjAyNzc3NQ==",
-			"glow_color": "NjgxMzE4Mw=="
-		},
-		{
-			"id": "Q1JfU3RhZmY=",
-			"text": "Q29kZVJlZCBEaXNjb3JkIFN0YWZm",
-			"text_color": "MTY3MjQ1MTc=",
-			"glow_color": "MTY3MjgzNzY="
-		},
-		{
-			"id": "Q1JfQWxs",
-			"text": "UGxhY2Vob2xkZXIgVGV4dA==",
-			"text_color": "MA==",
-			"glow_color": "MA=="
-		},
-		{
-			"id": "Q1JfSG9tb3NleHVhbA==",
-			"text": "RHVtYiBHYXkgQml0Y2g=",
-			"text_color": "MTY3MzYyNDU=",
-			"glow_color": "MTY3MTE5MDU="
-		},
-		{
-			"id": "Q1JfQm95X0tpc3Nlcg==",
-			"text": "VmVyaWZpZWQgQm95IEtpc3Nlcg==",
-			"text_color": "MTY3MzYyNDU=",
-			"glow_color": "MTY3MTE5MDU="
+			"id": "Q1JfQmV0YV9UZXN0ZXI=",
+			"text": "Q29kZVJlZCBCZXRhIFRlc3Rlcg==",
+			"text_color": "NTkzMDQ5NQ==",
+			"glow_color": "MTI2Mjg0NQ=="
 		},
 		{
 			"id": "Q1JfQm91bnR5X0h1bnRlcg==",
@@ -92,10 +32,58 @@
 			"glow_color": "MTY3NzcyMTU="
 		},
 		{
-			"id": "Q1JfQ29ubmVjdA==",
+			"id": "Q1JfQm9vc3Rlcg==",
+			"text": "Q29kZVJlZCBTZXJ2ZXIgQm9vc3Rlcg==",
+			"text_color": "MTY3MzYyNDU=",
+			"glow_color": "MTY3MTE5MDU="
+		},
+		{
+			"id": "Q1JfSG9tb3NleHVhbA==",
+			"text": "RHVtYiBHYXkgQml0Y2g=",
+			"text_color": "MTY3MzYyNDU=",
+			"glow_color": "MTY3MTE5MDU="
+		},
+		{
+			"id": "Q1JfRGV2ZWxvcGVy",
+			"text": "Q29kZVJlZCBEZXZlbG9wZXI=",
+			"text_color": "NjU0NTA=",
+			"glow_color": "NjU1MzU="
+		},
+		{
+			"id": "Q1JfUXVlZXI=",
+			"text": "QWxwaGFiZXQgTWFmaWEgTWVtYmVy",
+			"text_color": "MTE0NDI2ODc=",
+			"glow_color": "ODgwMDI1NQ=="
+		},
+		{
+			"id": "Q1JfU3VwcG9ydGVy",
+			"text": "Q29kZVJlZCBTdXBwb3J0ZXI=",
+			"text_color": "MjAyNzc3NQ==",
+			"glow_color": "NjgxMzE4Mw=="
+		},
+		{
+			"id": "Q1JfQWxwaGFfVGVzdGVy",
+			"text": "Q29kZVJlZCBBbHBoYSBUZXN0ZXI=",
+			"text_color": "MTI3OTc2OTA=",
+			"glow_color": "MTE3OTY3MzU="
+		},
+		{
+			"id": "Q1JfRmVtYm95",
+			"text": "RmVtYm95IEVudGh1c2lhc3Q=",
+			"text_color": "MTM2NzI3NQ==",
+			"glow_color": "OTU2MTg1MA=="
+		},
+		{
+			"id": "Q1JfQWxs",
 			"text": "UGxhY2Vob2xkZXIgVGV4dA==",
 			"text_color": "MA==",
 			"glow_color": "MA=="
+		},
+		{
+			"id": "Q1JfU3RhZmY=",
+			"text": "Q29kZVJlZCBEaXNjb3JkIFN0YWZm",
+			"text_color": "MTY3MjQ1MTc=",
+			"glow_color": "MTY3MjgzNzY="
 		},
 		{
 			"id": "Q1JfRWRpdA==",
@@ -104,10 +92,22 @@
 			"glow_color": "MA=="
 		},
 		{
-			"id": "Q1JfQ291bnRlcg==",
-			"text": "Q29kZVJlZCBDb3VudGluZyBDaGFtcGlvbg==",
+			"id": "Q1JfQ29ubmVjdA==",
+			"text": "UGxhY2Vob2xkZXIgVGV4dA==",
 			"text_color": "MA==",
 			"glow_color": "MA=="
+		},
+		{
+			"id": "Q1JfRHVtcGVy",
+			"text": "UGxhY2Vob2xkZXIgVGV4dA==",
+			"text_color": "MA==",
+			"glow_color": "MA=="
+		},
+		{
+			"id": "Q1JfQm95X0tpc3Nlcg==",
+			"text": "VmVyaWZpZWQgQm95IEtpc3Nlcg==",
+			"text_color": "MTY3MzYyNDU=",
+			"glow_color": "MTY3MTE5MDU="
 		}
 	]
 }
