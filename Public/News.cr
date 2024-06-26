@@ -125,13 +125,6 @@
       "imageUrl": "https://i.imgur.com/yhFKctF.png",
       "author": "Psyonix Team",
       "date": "2024-03-04"
-    },
-    {
-      "title": "Season 13 Rewards Feel the Beat",
-      "slug": "season-13-rewards-feel-the-beat",
-      "imageUrl": "https://i.imgur.com/JWVLoSr.png",
-      "author": "Laudie Gonzalez",
-      "date": "2024-02-23"
     }
   ]
 }
