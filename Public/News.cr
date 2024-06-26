@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "Patch Notes v2.41",
+      "slug": "patch-notes-v2-41",
+      "imageUrl": "https://i.imgur.com/tUe5K7C.png",
+      "author": "Devin Conners",
+      "date": "2024-06-25"
+    },
+    {
       "title": "2024 RLCS London Major Primer + On-Site Guide",
       "slug": "2024-rlcs-london-major-primer-plus-onsite-guide",
       "imageUrl": "https://i.imgur.com/0AYqbiQ.png",
