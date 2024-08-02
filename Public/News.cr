@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "title": "Alan Walker Brings the Beat to Rocket League Neon Nights",
+      "slug": "alan-walker-brings-the-beat-to-rocket-league-neon-nights",
+      "imageUrl": "https://i.imgur.com/jZrbXbK.png",
+      "author": "Psyonix Team",
+      "date": "2024-08-02"
+    },
+    {
+      "title": "New Rocket League 1v1, 2v2, and 3v3 Rumble Open Tournaments",
+      "slug": "champions-road-2024-opens-information-and-signups",
+      "imageUrl": "https://i.imgur.com/6BAuRL2.png",
+      "author": "Psyonix Team",
+      "date": "2024-08-01"
+    },
+    {
       "title": "Patch Notes v2.41",
       "slug": "patch-notes-v2-41",
       "imageUrl": "https://i.imgur.com/tUe5K7C.png",
@@ -111,20 +125,6 @@
       "imageUrl": "https://i.imgur.com/BXKwExd.png",
       "author": "Devin Connors",
       "date": "2024-03-06"
-    },
-    {
-      "title": "Patch Notes v2.36",
-      "slug": "patch-notes-v2-36",
-      "imageUrl": "https://i.imgur.com/Onbb7pk.png",
-      "author": "Devin Connors",
-      "date": "2024-03-05"
-    },
-    {
-      "title": "Dive into a Fresh AquaDome Arena in Rocket League Season 14!",
-      "slug": "dive-into-a-fresh-aquadome-arena-in-rocket-league-season-14",
-      "imageUrl": "https://i.imgur.com/yhFKctF.png",
-      "author": "Psyonix Team",
-      "date": "2024-03-04"
     }
   ]
 }
