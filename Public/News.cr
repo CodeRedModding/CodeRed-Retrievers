@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "Rocket League x BMW Decal Contest: Design a Decal for the BMW 1 Series!",
+      "slug": "rocket-league-x-bmw-decal-contest-design-a-decal-for-the-bmw-1-series",
+      "imageUrl": "https://i.imgur.com/mmWfkrR.png",
+      "author": "Psyonix Team",
+      "date": "2024-08-07"
+    },
+    {
       "title": "Alan Walker Brings the Beat to Rocket League Neon Nights",
       "slug": "alan-walker-brings-the-beat-to-rocket-league-neon-nights",
       "imageUrl": "https://i.imgur.com/jZrbXbK.png",
@@ -118,13 +125,6 @@
       "imageUrl": "https://i.imgur.com/8DSirJN.png",
       "author": "Psyonix Team",
       "date": "2024-03-23"
-    },
-    {
-      "title": "Patch Notes: Season 14 Live",
-      "slug": "patch-notes-season-14-live",
-      "imageUrl": "https://i.imgur.com/BXKwExd.png",
-      "author": "Devin Connors",
-      "date": "2024-03-06"
     }
   ]
 }
