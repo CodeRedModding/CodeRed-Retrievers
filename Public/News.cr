@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "title": "Improvements to Rocket League Game Servers",
+      "slug": "improvements-to-rocket-league-game-servers",
+      "imageUrl": "https://i.imgur.com/yunkdFp.png",
+      "author": "Psyonix Team",
+      "date": "2024-08-23"
+    },
+    {
+      "title": "Sign up and Play in the Rocket League Sideswipe Champions Road 1v1 Open Tournament!",
+      "slug": "rocket-league-sideswipe-champions-road-1v1-open-tournament-2024",
+      "imageUrl": "https://i.imgur.com/LrigY7x.png",
+      "author": "Psyonix Team",
+      "date": "2024-08-22"
+    },
+    {
       "title": "Rocket League x BMW Decal Contest: Design a Decal for the BMW 1 Series!",
       "slug": "rocket-league-x-bmw-decal-contest-design-a-decal-for-the-bmw-1-series",
       "imageUrl": "https://i.imgur.com/mmWfkrR.png",
@@ -111,20 +125,6 @@
       "imageUrl": "https://i.imgur.com/JdxZOx8.png",
       "author": "Psyonix Team",
       "date": "2024-04-15"
-    },
-    {
-      "title": "Master the Elements - Avatar: The Last Airbender Boosts into Rocket League!",
-      "slug": "master-the-elements-avatar-the-last-airbender-boosts-into-rocket-league",
-      "imageUrl": "https://i.imgur.com/KVTc0Ag.png",
-      "author": "Psyonix Team",
-      "date": "2024-04-11"
-    },
-    {
-      "title": "Support Your Favorite Season Mode Teams in Rocket League City Slam!",
-      "slug": "support-your-favorite-season-mode-teams-in-rocket-league-city-slam",
-      "imageUrl": "https://i.imgur.com/8DSirJN.png",
-      "author": "Psyonix Team",
-      "date": "2024-03-23"
     }
   ]
 }
