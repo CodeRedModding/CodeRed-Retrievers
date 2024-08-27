@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "Rocket League S15’s Season Rush Arrives + Season Rewards Unveiled!",
+      "slug": "rocket-league-s15s-season-rush-arrives-season-rewards-unveiled",
+      "imageUrl": "https://i.imgur.com/BXUklCo.png",
+      "author": "Psyonix Team",
+      "date": "2024-08-23"
+    },
+    {
       "title": "Improvements to Rocket League Game Servers",
       "slug": "improvements-to-rocket-league-game-servers",
       "imageUrl": "https://i.imgur.com/yunkdFp.png",
@@ -118,13 +125,6 @@
       "imageUrl": "https://i.imgur.com/s6GBddQ.png",
       "author": "Devin Connors",
       "date": "2024-04-16"
-    },
-    {
-      "title": "Teammate Boost Indicators + Rarity Name Changes Coming to Rocket League",
-      "slug": "teammate-boost-indicators-and-rarity-name-changes-coming-to-rocket-league",
-      "imageUrl": "https://i.imgur.com/JdxZOx8.png",
-      "author": "Psyonix Team",
-      "date": "2024-04-15"
     }
   ]
 }
