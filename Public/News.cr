@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "Rocket League Season 16 - Urban Legends Emerge from the Arena’s Darkest Depths",
+      "slug": "rocket-league-season-16-urban-legends-emerge-from-the-arenas-darkest-depths",
+      "imageUrl": "https://i.imgur.com/ukLoxTK.png",
+      "author": "Psyonix Team",
+      "date": "2024-08-30"
+    },
+    {
       "title": "Rocket League S15’s Season Rush Arrives + Season Rewards Unveiled!",
       "slug": "rocket-league-s15s-season-rush-arrives-season-rewards-unveiled",
       "imageUrl": "https://i.imgur.com/BXUklCo.png",
@@ -118,13 +125,6 @@
       "imageUrl": "https://i.imgur.com/mQaoEIP.png",
       "author": "Psyonix Team",
       "date": "2024-04-20"
-    },
-    {
-      "title": "Patch Notes v2.38",
-      "slug": "patch-notes-v2-38",
-      "imageUrl": "https://i.imgur.com/s6GBddQ.png",
-      "author": "Devin Connors",
-      "date": "2024-04-16"
     }
   ]
 }
