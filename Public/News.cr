@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "Patch Notes v2.43",
+      "slug": "patch-notes-v2-43",
+      "imageUrl": "https://i.imgur.com/w128Efw.png",
+      "author": "Devin Connors",
+      "date": "2024-09-03"
+    },
+    {
       "title": "Rocket League Season 16 - Urban Legends Emerge from the Arena’s Darkest Depths",
       "slug": "rocket-league-season-16-urban-legends-emerge-from-the-arenas-darkest-depths",
       "imageUrl": "https://i.imgur.com/ukLoxTK.png",
@@ -118,13 +125,6 @@
       "imageUrl": "https://i.imgur.com/poV804a.png",
       "author": "Psyonix Team",
       "date": "2024-05-03"
-    },
-    {
-      "title": "To Me, My X-Men! Mutate Your Ride in the Rocket League | X-Men ‘97 Event",
-      "slug": "to-me-my-x-men-mutate-your-ride-in-the-rocket-league-x-men-97-event",
-      "imageUrl": "https://i.imgur.com/mQaoEIP.png",
-      "author": "Psyonix Team",
-      "date": "2024-04-20"
     }
   ]
 }
