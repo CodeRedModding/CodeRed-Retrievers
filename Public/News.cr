@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "Patch Notes: Season 16 Live",
+      "slug": "patch-notes-season-16-live",
+      "imageUrl": "https://i.imgur.com/803V68D.png",
+      "author": "Devin Connors",
+      "date": "2024-09-04"
+    },
+    {
       "title": "Patch Notes v2.43",
       "slug": "patch-notes-v2-43",
       "imageUrl": "https://i.imgur.com/w128Efw.png",
@@ -118,13 +125,6 @@
       "imageUrl": "https://i.imgur.com/fp5pK15.png",
       "author": "Psyonix Team",
       "date": "2024-05-21"
-    },
-    {
-      "title": "May the 4th Be with You in Rocket League - Celebrate Star Wars Day 2024!",
-      "slug": "may-the-4th-be-with-you-in-rocket-league-celebrate-star-wars-day-2024",
-      "imageUrl": "https://i.imgur.com/poV804a.png",
-      "author": "Psyonix Team",
-      "date": "2024-05-03"
     }
   ]
 }
