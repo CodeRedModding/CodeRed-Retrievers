@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "Champions Road Returns to Rocket League in 2024",
+      "slug": "champions-road-returns-to-rocket-league-in-2024",
+      "imageUrl": "https://i.imgur.com/ooXWDQl.png",
+      "author": "Psyonix Team",
+      "date": "2024-09-06"
+    },
+    {
       "title": "Patch Notes: Season 16 Live",
       "slug": "patch-notes-season-16-live",
       "imageUrl": "https://i.imgur.com/803V68D.png",
@@ -118,13 +125,6 @@
       "imageUrl": "https://i.imgur.com/OCmnP8B.png",
       "author": "Psyonix Team",
       "date": "2024-05-31"
-    },
-    {
-      "title": "Rocket League S14’s Season Rush is Here + Season Rewards Revealed!",
-      "slug": "rocket-league-s14s-season-rush-is-here-plus-season-rewards-revealed",
-      "imageUrl": "https://i.imgur.com/fp5pK15.png",
-      "author": "Psyonix Team",
-      "date": "2024-05-21"
     }
   ]
 }
