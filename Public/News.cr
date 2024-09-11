@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "title": "Upcoming Rocket League Pricing Alignment in Africa, Asia, Oceania, and South America in October 2024",
+      "slug": "upcoming-rocket-league-pricing-alignment-in-africa-asia-oceania-and-south-america-in-october-2024",
+      "imageUrl": "https://i.imgur.com/Ch5M5hT.png",
+      "author": "Psyonix Team",
+      "date": "2024-09-10"
+    },
+    {
+      "title": "2024 Rocket League World Championship Primer + On-Site Guide",
+      "slug": "2024-rlcs-world-championship-primer-plus-onsite-guide",
+      "imageUrl": "https://i.imgur.com/jVFngxb.png",
+      "author": "Psyonix Team",
+      "date": "2024-09-09"
+    },
+    {
       "title": "Champions Road Returns to Rocket League in 2024",
       "slug": "champions-road-returns-to-rocket-league-in-2024",
       "imageUrl": "https://i.imgur.com/ooXWDQl.png",
@@ -111,20 +125,6 @@
       "imageUrl": "https://i.imgur.com/4GYQbYg.png",
       "author": "Psyonix Team",
       "date": "2024-06-04"
-    },
-    {
-	  "title": "Add Items to More of Your Rocket League Cars in v2.40!",
-      "slug": "add-items-to-more-of-your-rocket-league-cars-in-v2-40",
-      "imageUrl": "https://i.imgur.com/qanF0Em.png",
-      "author": "Psyonix Team",
-      "date": "2024-06-04"
-    },
-    {
-      "title": "Rocket League Season 15: Enter the Fun, Fret, and Fray of Salty Fest!",
-      "slug": "rocket-league-season-15-enter-the-fun-fret-and-fray-of-salty-fest",
-      "imageUrl": "https://i.imgur.com/OCmnP8B.png",
-      "author": "Psyonix Team",
-      "date": "2024-05-31"
     }
   ]
 }
