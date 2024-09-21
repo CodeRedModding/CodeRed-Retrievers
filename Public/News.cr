@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "Collegiate Rocket League Returns For Fall 2024!",
+      "slug": "collegiate-rocket-league-returns-for-fall-2024",
+      "imageUrl": "https://i.imgur.com/7HLBXII.png",
+      "author": "Psyonix Team",
+      "date": "2024-09-15"
+    },
+    {
       "title": "Upcoming Rocket League Pricing Alignment in Africa, Asia, Oceania, and South America in October 2024",
       "slug": "upcoming-rocket-league-pricing-alignment-in-africa-asia-oceania-and-south-america-in-october-2024",
       "imageUrl": "https://i.imgur.com/Ch5M5hT.png",
@@ -118,13 +125,6 @@
       "imageUrl": "https://i.imgur.com/ELPRSCY.png",
       "author": "Devin Connors",
       "date": "2024-06-05"
-    },
-    {
-      "title": "Patch Notes v2.40",
-      "slug": "patch-notes-v2-40",
-      "imageUrl": "https://i.imgur.com/4GYQbYg.png",
-      "author": "Psyonix Team",
-      "date": "2024-06-04"
     }
   ]
 }
