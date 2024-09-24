@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "Patch Notes v2.44",
+      "slug": "patch-notes-v2-44",
+      "imageUrl": "https://i.imgur.com/VIDOPDy.png",
+      "author": "Devin Conners",
+      "date": "2024-09-24"
+    },
+    {
       "title": "Collegiate Rocket League Returns For Fall 2024!",
       "slug": "collegiate-rocket-league-returns-for-fall-2024",
       "imageUrl": "https://i.imgur.com/7HLBXII.png",
