@@ -118,20 +118,6 @@
       "imageUrl": "https://i.imgur.com/0AYqbiQ.png",
       "author": "Psyonix Team",
       "date": "2024-06-18"
-    },
-    {
-      "title": "Rocket League’s Festival of Football Celebrates Football + RL’s Ninth Birthday!",
-      "slug": "rocket-leagues-festival-of-football-celebrates-football-and-rls-ninth-birthday",
-      "imageUrl": "https://i.imgur.com/LAHYtU9.png",
-      "author": "Psyonix Team",
-      "date": "2024-06-17"
-    },
-    {
-      "title": "Changes to Rocket League’s Competitive Rank System for Better Matches",
-      "slug": "changes-to-rocket-leagues-competitive-rank-system-for-better-matches",
-      "imageUrl": "https://i.imgur.com/48JPje4.png",
-      "author": "Psyonix Team",
-      "date": "2024-06-14"
     }
   ]
 }
