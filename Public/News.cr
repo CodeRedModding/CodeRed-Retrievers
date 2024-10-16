@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "It's a Spider-Man Spooktacular in Rocket League's Haunted Hallows!",
+      "slug": "its-a-spider-man-spooktacular-in-rocket-leagues-haunted-hallows",
+      "imageUrl": "https://i.imgur.com/mECM0V6.png",
+      "author": "Psyonix Team",
+      "date": "2024-10-16"
+    },
+    {
       "title": "Patch Notes v2.44",
       "slug": "patch-notes-v2-44",
       "imageUrl": "https://i.imgur.com/VIDOPDy.png",
@@ -125,13 +132,6 @@
       "imageUrl": "https://i.imgur.com/48JPje4.png",
       "author": "Psyonix Team",
       "date": "2024-06-14"
-    },
-    {
-      "title": "Patch Notes: Season 15 Live",
-      "slug": "patch-notes-season-15-live",
-      "imageUrl": "https://i.imgur.com/ELPRSCY.png",
-      "author": "Devin Connors",
-      "date": "2024-06-05"
     }
   ]
 }
