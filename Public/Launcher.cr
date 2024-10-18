@@ -1,26 +1,25 @@
 {
-	"signature": "f2c502df92304f0c130799fccaa0fe8f93d7bf66ee4259f55bd6270bc835b5847fb86115889eaa13dfb03b7ea52f0cf4faa0ea0ddfd52ac3f06e4fcb290650fd",
-	"WebsiteUrl": "https://coderedmodding.github.io/",
-	"PsyonixVersion": "240915.57651.459935",
-	"AltEndpoint": "false",
-	"Maintenance": "false",
-	"LauncherAlt": "null",
-	"KofiUrl": "https://ko-fi.com/coderedmodding/",
-	"EmbedsValid": "true",
-	"EmbedsAlt": "Umc9XVRUQjxcU049VFI9R2Asb19UQm9KTEBrPFJCNElcQTBHYUJVLk9PX3RhaG9wUitjXkpQPXJLUWtgUz9nJk9Rc1RgUkFqXmZjTlRPMC5iQzMwXi49R0xBTC1LT2IqSXVuLktPYiZLP2IuS2Y8JktAPDBKPDg4",
-	"LauncherUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v2.3.5/CodeRedLauncher.zip",
-	"LauncherChangelog": "Added more detailed info to the update window when installing updates.\nChanged some error messages and logs to provide better info if something is blocking the launchers permissions.",
-	"Supporters": "Synexe, MisterDrProf, Th3Ant, Anga, FREE AOL, Mr Reiner",
-	"EmbedsHash": "YGlAL15BVURPZmNyUCswb0pBZ21UP29VT2c9ckpoZyxLZ2oxU1M9PFFQLCZeQSxiVEAwamJUQTNeUDBqUENVdWBDUDFcRD0zSy5Jb1BnLFJhLjQqS0NuKlF1TC1JdWImS2UzMEp1LypKP2oxS2Y8JktAPDBKPDg4",
-	"ModuleChangelog": "Added a new setting `freeplay_unlimited_flips` which is pretty self explanatory.\nAdded the new `McLaren Senna` car body to the anonymizer setting `garage_hide_loadouts`.\nAdded the new `Drift Woods (Night)` map to Discord rich presence integration and the main menu background changer.\nFixed your preview loadout when opening drops sometimes not showing what item you got after opening them.\nFixed the goal explosion camera when viewing blueprints in your inventory not working properly.\nFixed the `interface_april_icons` setting sometimes not applying at the end of games.",
-	"EmbedsCache": "SkFvTVNnUUpSP29fUWYsLE9mc1NQZ0VSSlAwS09DLDBdUCxPUEJVNEpDLFFJQUVuXGYsRlBDRStRdWozYVBrU11DLy5UUHN1XVFjXF0uX0dMQVA0Sy1jSWJDci1JdV4mSk8zKkpPaipKdV4wS2Y8JktAPDBKPDg4",
-	"DropperUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v2.3.5/CodeRedDropper.zip",
-	"Credits": "Bakkes, Martinn, TaylorSasser, ButternCream, GlenHumphrey, Segal, ToolB0x, lchmagKekse, and Megasplat/Aberinkula/FrancesElMute",
-	"ModuleUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v2.3.5/CodeRedModule.zip",
-	"Disclaimer": "CodeRed is not officially approved by Psyonix or Epic Games, however, CodeRed still follows Rocket League's ToU, EULA, and rules regarding third party modding. CodeRed does not provide a competitive advantage in online play, expose unreleased features/content, or abuse Rocket League's services.",
-	"UninstallerUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v2.3.5/CodeRedUninstaller.zip",
-	"LauncherVersion": "1.4.0",
+	"signature": "5ea954e7eeb2f50a16340d829cef3a2133499ddf3c714fe1e8d4d91418ffb7b4e67f76da320c470ec61eecfa6dd370d7c2a7a52d3d5be01b933b877911c674e7",
 	"DiscordUrl": "https://discord.gg/EDemwueagu",
-	"NewsUrl": "https://www.rocketleague.com/en/news/",
-	"ModuleVersion": "2.3.5"
+	"Supporters": "Synexe, MisterDrProf, Th3Ant, Anga, FREE AOL, Mr Reiner",
+	"ModuleVersion": "2.3.5",
+	"LauncherVersion": "1.4.0",
+	"ModuleUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v2.3.5/CodeRedModule.zip",
+	"LauncherChangelog": "Added more detailed info to the update window when installing updates.\nChanged some error messages and logs to provide better info if something is blocking the launchers permissions.",
+	"ModuleChangelog": "Added a new setting `freeplay_unlimited_flips` which is pretty self explanatory.
+Added the new `McLaren Senna` car body to the anonymizer setting `garage_hide_loadouts`.
+Added the new `Drift Woods (Night)` map to Discord rich presence integration and the main menu background changer.
+Fixed your preview loadout when opening drops sometimes not showing what item you got after opening them.
+Fixed the goal explosion camera when viewing blueprints in your inventory not working properly.
+Fixed the `interface_april_icons` setting sometimes not applying at the end of games.",
+	"WebsiteUrl": "https://coderedmodding.github.io/",
+	"KofiUrl": "https://ko-fi.com/coderedmodding/",
+	"AltEndpoint": "false",
+	"DropperUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v2.3.5/CodeRedDropper.zip",
+	"LauncherAlt": "null",
+	"UninstallerUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v2.3.5/CodeRedUninstaller.zip",
+	"LauncherUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v2.3.5/CodeRedLauncher.zip",
+	"Credits": "Bakkes, Martinn, TaylorSasser, ButternCream, GlenHumphrey, Segal, ToolB0x, lchmagKekse, and Megasplat/Aberinkula/FrancesElMute",
+	"PsyonixVersion": "240915.57651.459935",
+	"NewsUrl": "https://www.rocketleague.com/en/news/"
 }
