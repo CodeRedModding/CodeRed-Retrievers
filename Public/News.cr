@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "title": "Introducing Rocket League Match History and Player Profiles!",
+      "slug": "introducing-rocket-league-match-history-and-player-profiles",
+      "imageUrl": "https://i.imgur.com/jiZzs7Z.png",
+      "author": "Psyonix Team",
+      "date": "2024-10-21"
+    },
+    {
+      "title": "The 2024 RLCS Offseason Heats Up With More Ways to Compete!",
+      "slug": "2024-offseason-tournaments",
+      "imageUrl": "https://i.imgur.com/jWsiPIB.png",
+      "author": "Psyonix Team",
+      "date": "2024-10-16"
+    },
+    {
       "title": "It's a Spider-Man Spooktacular in Rocket League's Haunted Hallows!",
       "slug": "its-a-spider-man-spooktacular-in-rocket-leagues-haunted-hallows",
       "imageUrl": "https://i.imgur.com/mECM0V6.png",
@@ -104,20 +118,6 @@
       "imageUrl": "https://i.imgur.com/6BAuRL2.png",
       "author": "Psyonix Team",
       "date": "2024-08-01"
-    },
-    {
-      "title": "Patch Notes v2.41",
-      "slug": "patch-notes-v2-41",
-      "imageUrl": "https://i.imgur.com/tUe5K7C.png",
-      "author": "Devin Conners",
-      "date": "2024-06-25"
-    },
-    {
-      "title": "2024 RLCS London Major Primer + On-Site Guide",
-      "slug": "2024-rlcs-london-major-primer-plus-onsite-guide",
-      "imageUrl": "https://i.imgur.com/0AYqbiQ.png",
-      "author": "Psyonix Team",
-      "date": "2024-06-18"
     }
   ]
 }
