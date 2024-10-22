@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "Patch Notes v2.45",
+      "slug": "patch-notes-v2-45",
+      "imageUrl": "https://i.imgur.com/n1KLmTa.png",
+      "author": "Devin Conners",
+      "date": "2024-10-22"
+    },
+    {
       "title": "Introducing Rocket League Match History and Player Profiles!",
       "slug": "introducing-rocket-league-match-history-and-player-profiles",
       "imageUrl": "https://i.imgur.com/jiZzs7Z.png",
@@ -111,13 +118,6 @@
       "imageUrl": "https://i.imgur.com/jZrbXbK.png",
       "author": "Psyonix Team",
       "date": "2024-08-02"
-    },
-    {
-      "title": "New Rocket League 1v1, 2v2, and 3v3 Rumble Open Tournaments",
-      "slug": "champions-road-2024-opens-information-and-signups",
-      "imageUrl": "https://i.imgur.com/6BAuRL2.png",
-      "author": "Psyonix Team",
-      "date": "2024-08-01"
     }
   ]
 }
