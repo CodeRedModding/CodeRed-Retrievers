@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "RLCS Is Back With a Bang For 2025!",
+      "slug": "rlcs-is-back-with-a-bang-for-2025",
+      "imageUrl": "https://i.imgur.com/TBFAjg4.png",
+      "author": "Psyonix Team",
+      "date": "2024-10-23"
+    },
+    {
       "title": "Patch Notes v2.45",
       "slug": "patch-notes-v2-45",
       "imageUrl": "https://i.imgur.com/n1KLmTa.png",
@@ -111,13 +118,6 @@
       "imageUrl": "https://i.imgur.com/mmWfkrR.png",
       "author": "Psyonix Team",
       "date": "2024-08-07"
-    },
-    {
-      "title": "Alan Walker Brings the Beat to Rocket League Neon Nights",
-      "slug": "alan-walker-brings-the-beat-to-rocket-league-neon-nights",
-      "imageUrl": "https://i.imgur.com/jZrbXbK.png",
-      "author": "Psyonix Team",
-      "date": "2024-08-02"
     }
   ]
 }
