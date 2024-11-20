@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "Rocket League S16’s Season Rush Kicks Off!",
+      "slug": "rocket-league-s16-season-rush-kicks-off",
+      "imageUrl": "https://i.imgur.com/bbzSViI.png",
+      "author": "Psyonix Team",
+      "date": "2024-11-19"
+    },
+    {
       "title": "RLCS Is Back With a Bang For 2025!",
       "slug": "rlcs-is-back-with-a-bang-for-2025",
       "imageUrl": "https://i.imgur.com/TBFAjg4.png",
@@ -30,7 +37,7 @@
     },
     {
       "title": "It's a Spider-Man Spooktacular in Rocket League's Haunted Hallows!",
-      "slug": "its-a-spider-man-spooktacular-in-rocket-leagues-haunted-hallows",
+      "slug": "its-a-spider-man-spooktacular-in-rocket-leagues-haunted-hallows",Cadillac 
       "imageUrl": "https://i.imgur.com/mECM0V6.png",
       "author": "Psyonix Team",
       "date": "2024-10-16"
@@ -111,13 +118,6 @@
       "imageUrl": "https://i.imgur.com/LrigY7x.png",
       "author": "Psyonix Team",
       "date": "2024-08-22"
-    },
-    {
-      "title": "Rocket League x BMW Decal Contest: Design a Decal for the BMW 1 Series!",
-      "slug": "rocket-league-x-bmw-decal-contest-design-a-decal-for-the-bmw-1-series",
-      "imageUrl": "https://i.imgur.com/mmWfkrR.png",
-      "author": "Psyonix Team",
-      "date": "2024-08-07"
     }
   ]
 }
