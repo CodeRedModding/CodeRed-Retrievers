@@ -3,14 +3,14 @@
     {
       "title": "Season 17 Brings Online Free Play as Rocket League Heads to the Arcades",
       "slug": "season-17-brings-online-free-play-as-rocket-league-heads-to-the-arcades",
-      "imageUrl": "https://i.imgur.com/3r9e88P.png",
+      "imageUrl": "https://i.imgur.com/36cGzoM.png",
       "author": "Psyonix Team",
       "date": "2024-11-26"
     },
     {
       "title": "Collegiate Rocket League Spring 2025 Preview",
       "slug": "collegiate-rocket-league-spring-2025-preview",
-      "imageUrl": "https://i.imgur.com/SVnmgdm.png",
+      "imageUrl": "https://i.imgur.com/WccRFiS.png",
       "author": "Psyonix Team",
       "date": "2024-11-22"
     },
