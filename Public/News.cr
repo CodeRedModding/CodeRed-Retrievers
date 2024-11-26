@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "title": "Season 17 Brings Online Free Play as Rocket League Heads to the Arcades",
+      "slug": "season-17-brings-online-free-play-as-rocket-league-heads-to-the-arcades",
+      "imageUrl": "https://i.imgur.com/3r9e88P.png",
+      "author": "Psyonix Team",
+      "date": "2024-11-26"
+    },
+    {
+      "title": "Collegiate Rocket League Spring 2025 Preview",
+      "slug": "collegiate-rocket-league-spring-2025-preview",
+      "imageUrl": "https://i.imgur.com/SVnmgdm.png",
+      "author": "Psyonix Team",
+      "date": "2024-11-22"
+    },
+    {
       "title": "Rocket League S16’s Season Rush Kicks Off!",
       "slug": "rocket-league-s16-season-rush-kicks-off",
       "imageUrl": "https://i.imgur.com/bbzSViI.png",
@@ -104,20 +118,6 @@
       "imageUrl": "https://i.imgur.com/BXUklCo.png",
       "author": "Psyonix Team",
       "date": "2024-08-23"
-    },
-    {
-      "title": "Improvements to Rocket League Game Servers",
-      "slug": "improvements-to-rocket-league-game-servers",
-      "imageUrl": "https://i.imgur.com/yunkdFp.png",
-      "author": "Psyonix Team",
-      "date": "2024-08-23"
-    },
-    {
-      "title": "Sign up and Play in the Rocket League Sideswipe Champions Road 1v1 Open Tournament!",
-      "slug": "rocket-league-sideswipe-champions-road-1v1-open-tournament-2024",
-      "imageUrl": "https://i.imgur.com/LrigY7x.png",
-      "author": "Psyonix Team",
-      "date": "2024-08-22"
     }
   ]
 }
