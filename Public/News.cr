@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "Patch Notes: Season 17 Live",
+      "slug": "patch-notes-season-17-live",
+      "imageUrl": "https://i.imgur.com/3E9vOWY.png",
+      "author": "Laudie Gonzalez",
+      "date": "2024-12-04"
+    },
+    {
       "title": "Rocket League Patch Notes v2.46",
       "slug": "patch-notes-v2-46",
       "imageUrl": "https://i.imgur.com/8z9DpBI.png",
@@ -111,13 +118,6 @@
       "imageUrl": "https://i.imgur.com/w128Efw.png",
       "author": "Devin Connors",
       "date": "2024-09-03"
-    },
-    {
-      "title": "Rocket League Season 16 - Urban Legends Emerge from the Arena’s Darkest Depths",
-      "slug": "rocket-league-season-16-urban-legends-emerge-from-the-arenas-darkest-depths",
-      "imageUrl": "https://i.imgur.com/ukLoxTK.png",
-      "author": "Psyonix Team",
-      "date": "2024-08-30"
     }
   ]
 }
