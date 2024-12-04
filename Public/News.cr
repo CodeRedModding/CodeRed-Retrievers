@@ -1,6 +1,13 @@
 {
   "news": [
     {
+      "title": "Rocket League Patch Notes v2.46",
+      "slug": "patch-notes-v2-46",
+      "imageUrl": "https://i.imgur.com/8z9DpBI.png",
+      "author": "Laudie Gonzalez",
+      "date": "2024-12-03"
+    },
+    {
       "title": "Season 17 Brings Online Free Play as Rocket League Heads to the Arcades",
       "slug": "season-17-brings-online-free-play-as-rocket-league-heads-to-the-arcades",
       "imageUrl": "https://i.imgur.com/36cGzoM.png",
@@ -111,13 +118,6 @@
       "imageUrl": "https://i.imgur.com/ukLoxTK.png",
       "author": "Psyonix Team",
       "date": "2024-08-30"
-    },
-    {
-      "title": "Rocket League S15’s Season Rush Arrives + Season Rewards Unveiled!",
-      "slug": "rocket-league-s15s-season-rush-arrives-season-rewards-unveiled",
-      "imageUrl": "https://i.imgur.com/BXUklCo.png",
-      "author": "Psyonix Team",
-      "date": "2024-08-23"
     }
   ]
 }
