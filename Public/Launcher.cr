@@ -1,20 +1,27 @@
 {
-	"signature": "7a6cdb1a10cfb02b4e7aa16c75ab53fdfc9ce59ee2a7ffdf6dd07ac63f469d55a4789a782c19941b2e2cd06da667b47d5209ef1d1f9564c9b8eef7804988e4c5",
-	"ModuleUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v2.4.3/CodeRedModule.zip",
-	"PsyonixVersion": "241120.79850.467296",
-	"UninstallerUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v2.4.3/CodeRedUninstaller.zip",
-	"LauncherChangelog": "Added more detailed info to the update window when installing updates.\nChanged some error messages and logs to provide better info if something is blocking the launchers permissions.",
+	"signature": "37ec61cfbfb87957358809b4833478b39964c8d34109a6410a3fe2f020b65b41a77ee6ba4c140fc427a366d973c6c99663130cea35da701bee788e6a73dc6507",
 	"AltEndpoint": "false",
-	"LauncherVersion": "1.4.0",
-	"LauncherUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v2.4.3/CodeRedLauncher.zip",
-	"Credits": "Bakkes, Martinn, TaylorSasser, ButternCream, GlenHumphrey, Segal, ToolB0x, lchmagKekse, and Megasplat/Aberinkula/FrancesElMute",
-	"NewsUrl": "https://www.rocketleague.com/en/news/",
-	"Supporters": "Synexe, MisterDrProf, Th3Ant, Anga, FREE AOL, Mr Reiner",
-	"KofiUrl": "https://ko-fi.com/coderedmodding/",
-	"ModuleVersion": "2.4.3",
-	"WebsiteUrl": "https://coderedmodding.github.io/",
-	"LauncherAlt": "null",
 	"DropperUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v2.4.3/CodeRedDropper.zip",
+	"PsyonixVersion": "241120.79850.467296",
+	"Supporters": "Synexe, MisterDrProf, Th3Ant, Anga, FREE AOL, Mr Reiner",
 	"DiscordUrl": "https://discord.gg/TnmF5MhRak",
-	"ModuleChangelog": "Added a new setting `disable_epic_overlay` which disables the new Epic Games overlay, this works for both Steam and Epic.\nAdded the new `Shokunin` car bodies to the anonymizer setting `garage_hide_loadouts`.\nChanged the `ImGui.ini` file to be stored in `CodeRed\Settings` as opposed to the games directory.\nFixed the `garage_hide_loadouts` setting not working as of the last game update.\nFixed duplicate spawn particles appearing on your car when applying CodeRed loadouts.\nFixed the disable boost pads settings not working properly as of the last game update\nFixed custom post process effects not working on some main menu backgrounds.\nImprovements and bug fixes to ImGui related to hooks and global scaling."
+	"Credits": "Bakkes, Martinn, TaylorSasser, ButternCream, GlenHumphrey, Segal, ToolB0x, lchmagKekse, and Megasplat/Aberinkula/FrancesElMute",
+	"ModuleVersion": "2.4.3",
+	"LauncherAlt": "null",
+	"WebsiteUrl": "https://coderedmodding.github.io/",
+	"LauncherVersion": "1.4.0",
+	"UninstallerUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v2.4.3/CodeRedUninstaller.zip",
+	"LauncherUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v2.4.3/CodeRedLauncher.zip",
+	"KofiUrl": "https://ko-fi.com/coderedmodding/",
+	"ModuleUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v2.4.3/CodeRedModule.zip",
+	"ModuleChangelog": "Added a new setting `disable_epic_overlay` which disables the new Epic Games overlay, this works for both Steam and Epic.
+Added the new `Shokunin` car bodies to the anonymizer setting `garage_hide_loadouts`.
+Changed the `ImGui.ini` file to be stored in `CodeRedSettings` as opposed to the games directory.
+Fixed the `garage_hide_loadouts` setting not working as of the last game update.
+Fixed duplicate spawn particles appearing on your car when applying CodeRed loadouts.
+Fixed the disable boost pads settings not working properly as of the last game update
+Fixed custom post process effects not working on some main menu backgrounds.
+Improvements and bug fixes to ImGui related to hooks and global scaling.",
+	"LauncherChangelog": "Added more detailed info to the update window when installing updates.\nChanged some error messages and logs to provide better info if something is blocking the launchers permissions.",
+	"NewsUrl": "https://www.rocketleague.com/en/news/"
 }
