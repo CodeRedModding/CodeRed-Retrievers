@@ -3,7 +3,7 @@
     {
       "title": "Patch Notes: Season 17 Live",
       "slug": "patch-notes-season-17-live",
-      "imageUrl": "https://i.imgur.com/3E9vOWY.png",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/patch-notes-season-17-live.jpg",
       "author": "Laudie Gonzalez",
       "date": "2024-12-04"
     },
