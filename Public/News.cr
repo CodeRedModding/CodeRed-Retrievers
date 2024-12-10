@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Frosty Fest 2024 Brings Chills and Thrills to Rocket League!",
+      "slug": "frosty-fest-2024-brings-chills-and-thrills-to-rocket-league",
+	  "category": "Game News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/frosty-fest-2024-brings-chills-and-thrills-to-rocket-league.jpg",
+      "author": "Psyonix Team",
+      "date": "2024-12-10"
+    },
+    {
       "title": "Patch Notes: Season 17 Live",
       "slug": "patch-notes-season-17-live",
 	  "category": "Patch Notes",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/patch-notes-season-16-live.jpg",
       "author": "Devin Connors",
       "date": "2024-09-04"
-    },
-    {
-      "title": "Patch Notes v2.43",
-      "slug": "patch-notes-v2-43",
-	  "category": "Game Update",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/patch-notes-v2-43.jpg",
-      "author": "Devin Connors",
-      "date": "2024-09-03"
     }
   ]
 }
