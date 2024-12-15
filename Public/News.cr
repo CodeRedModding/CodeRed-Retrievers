@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "RLCS 2025: Updates",
+      "slug": "rlcs-2025-updates",
+	  "category": "Esports News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rlcs-2025-updates.jpg",
+      "author": "Psyonix Team",
+      "date": "2024-12-15"
+    },
+    {
       "title": "Frosty Fest 2024 Brings Chills and Thrills to Rocket League!",
       "slug": "frosty-fest-2024-brings-chills-and-thrills-to-rocket-league",
 	  "category": "Game News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/champions-road-returns-to-rocket-league-in-2024.jpg",
       "author": "Psyonix Team",
       "date": "2024-09-06"
-    },
-    {
-      "title": "Patch Notes: Season 16 Live",
-      "slug": "patch-notes-season-16-live",
-	  "category": "Patch Notes",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/patch-notes-season-16-live.jpg",
-      "author": "Devin Connors",
-      "date": "2024-09-04"
     }
   ]
 }
