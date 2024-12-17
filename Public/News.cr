@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rocket League Patch Notes v2.47",
+      "slug": "patch-notes-v2-47",
+	  "category": "Patch Notes",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/patch-notes-v2-47",
+      "author": "Laudie Gonzalez",
+      "date": "2024-12-16"
+    },
+    {
       "title": "RLCS 2025: Updates",
       "slug": "rlcs-2025-updates",
 	  "category": "Esports News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/2024-rlcs-world-championship-primer-plus-onsite-guide.jpg",
       "author": "Psyonix Team",
       "date": "2024-09-09"
-    },
-    {
-      "title": "Champions Road Returns to Rocket League in 2024",
-      "slug": "champions-road-returns-to-rocket-league-in-2024",
-	  "category": "Game News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/champions-road-returns-to-rocket-league-in-2024.jpg",
-      "author": "Psyonix Team",
-      "date": "2024-09-06"
     }
   ]
 }
