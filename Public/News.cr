@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "RLCS Heads to North Carolina for the Raleigh Major; Tickets on General Sale January 22nd",
+      "slug": "rlcs-heads-to-north-carolina",
+      "category": "Esports News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rlcs-heads-to-north-carolina.jpg",
+      "author": "Psyonix Team",
+      "date": "2025-01-18"
+    },
+    {
       "title": "Rocket League Patch Notes v2.47",
       "slug": "patch-notes-v2-47",
       "category": "Patch Notes",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/upcoming-rocket-league-pricing-alignment-in-africa-asia-oceania-and-south-america-in-october-2024.jpg",
       "author": "Psyonix Team",
       "date": "2024-09-10"
-    },
-    {
-      "title": "2024 Rocket League World Championship Primer + On-Site Guide",
-      "slug": "2024-rlcs-world-championship-primer-plus-onsite-guide",
-      "category": "Esports News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/2024-rlcs-world-championship-primer-plus-onsite-guide.jpg",
-      "author": "Psyonix Team",
-      "date": "2024-09-09"
     }
   ]
 }
