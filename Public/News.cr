@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rocket League Patch Notes v2.48",
+      "slug": "patch-notes-v2-48",
+      "category": "Patch Notes",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/patch-notes-v2-48.jpg",
+      "author": "Laudie Gonzalez",
+      "date": "2025-01-28"
+    },
+    {
       "title": "It’s Official, Not a Leek: Rocket League x Hatsune Miku!",
       "slug": "its-official-not-a-leek-rocket-league-x-hatsune-miku",
       "category": "Game News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/patch-notes-v2-44.jpg",
       "author": "Devin Conners",
       "date": "2024-09-24"
-    },
-    {
-      "title": "Collegiate Rocket League Returns For Fall 2024!",
-      "slug": "collegiate-rocket-league-returns-for-fall-2024",
-      "category": "Esports News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/collegiate-rocket-league-returns-for-fall-2024.jpg",
-      "author": "Psyonix Team",
-      "date": "2024-09-15"
     }
   ]
 }
