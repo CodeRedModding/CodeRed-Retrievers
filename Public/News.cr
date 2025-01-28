@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "It’s Official, Not a Leek: Rocket League x Hatsune Miku!",
+      "slug": "its-official-not-a-leek-rocket-league-x-hatsune-miku",
+      "category": "Game News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/its-official-not-a-leek-rocket-league-x-hatsune-miku.jpg",
+      "author": "Psyonix Team",
+      "date": "2025-01-28"
+    },
+    {
       "title": "RLCS Heads to North Carolina for the Raleigh Major; Tickets on General Sale January 22nd",
       "slug": "rlcs-heads-to-north-carolina",
       "category": "Esports News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/collegiate-rocket-league-returns-for-fall-2024.jpg",
       "author": "Psyonix Team",
       "date": "2024-09-15"
-    },
-    {
-      "title": "Upcoming Rocket League Pricing Alignment in Africa, Asia, Oceania, and South America in October 2024",
-      "slug": "upcoming-rocket-league-pricing-alignment-in-africa-asia-oceania-and-south-america-in-october-2024",
-      "category": "Game News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/upcoming-rocket-league-pricing-alignment-in-africa-asia-oceania-and-south-america-in-october-2024.jpg",
-      "author": "Psyonix Team",
-      "date": "2024-09-10"
     }
   ]
 }
