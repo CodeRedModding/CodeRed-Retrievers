@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rocket League World Championship 2025 Preview",
+      "slug": "rocket-league-world-championship-2025",
+      "category": "Patch Notes",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-world-championship-2025.jpg",
+      "author": "Esports News",
+      "date": "2025-02-06"
+    },
+    {
       "title": "Rocket League Patch Notes v2.48",
       "slug": "patch-notes-v2-48",
       "category": "Patch Notes",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/its-a-spider-man-spooktacular-in-rocket-leagues-haunted-hallows.jpg",
       "author": "Psyonix Team",
       "date": "2024-10-16"
-    },
-    {
-      "title": "Patch Notes v2.44",
-      "slug": "patch-notes-v2-44",
-      "category": "Patch Notes",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/patch-notes-v2-44.jpg",
-      "author": "Devin Conners",
-      "date": "2024-09-24"
     }
   ]
 }
