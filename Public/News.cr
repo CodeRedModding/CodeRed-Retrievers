@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Button Mash through the Season 17 Rocket Pass in Rocket League’s Season Rush + Competitive Rewards Revealed!",
+      "slug": "button-mash-through-the-season-17-rocket-pass-in-rocket-leagues-season-rush-plus-competitive-rewards-revealed",
+      "category": "Game News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/button-mash-through-the-season-17-rocket-pass-in-rocket-leagues-season-rush-plus-competitive-rewards-revealed.jpg",
+      "author": "Psyonix Team",
+      "date": "March 5th 2025"
+    },
+    {
       "title": "Rocket League World Championship 2025 Preview",
       "slug": "rocket-league-world-championship-2025",
       "category": "Patch Notes",
