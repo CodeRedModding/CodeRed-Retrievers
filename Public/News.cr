@@ -6,7 +6,7 @@
       "category": "Game News",
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/button-mash-through-the-season-17-rocket-pass-in-rocket-leagues-season-rush-plus-competitive-rewards-revealed.jpg",
       "author": "Psyonix Team",
-      "date": "March 5th 2025"
+      "date": "Mar 5th 2025"
     },
     {
       "title": "Rocket League World Championship 2025 Preview",
@@ -133,14 +133,6 @@
       "slug": "2024-offseason-tournaments",
       "category": "Esports News",
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/2024-offseason-tournaments.jpg",
-      "author": "Psyonix Team",
-      "date": "Oct 16th 2024"
-    },
-    {
-      "title": "It's a Spider-Man Spooktacular in Rocket League's Haunted Hallows!",
-      "slug": "its-a-spider-man-spooktacular-in-rocket-leagues-haunted-hallows",
-      "category": "Game News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/its-a-spider-man-spooktacular-in-rocket-leagues-haunted-hallows.jpg",
       "author": "Psyonix Team",
       "date": "Oct 16th 2024"
     }
