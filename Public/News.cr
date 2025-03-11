@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rocket League Season 18 Springs Forth Futura Garden",
+      "slug": "rocket-league-season-18-springs-forth-futura-garden",
+      "category": "Game News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-season-18-springs-forth-futura-garden.jpg",
+      "author": "Psyonix Team",
+      "date": "Mar 10th 2025"
+    },
+    {
       "title": "Button Mash through the Season 17 Rocket Pass in Rocket League’s Season Rush + Competitive Rewards Revealed!",
       "slug": "button-mash-through-the-season-17-rocket-pass-in-rocket-leagues-season-rush-plus-competitive-rewards-revealed",
       "category": "Game News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/introducing-rocket-league-match-history-and-player-profiles.jpg",
       "author": "Psyonix Team",
       "date": "Oct 21st 2024"
-    },
-    {
-      "title": "The 2024 RLCS Offseason Heats Up With More Ways to Compete!",
-      "slug": "2024-offseason-tournaments",
-      "category": "Esports News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/2024-offseason-tournaments.jpg",
-      "author": "Psyonix Team",
-      "date": "Oct 16th 2024"
     }
   ]
 }
