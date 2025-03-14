@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rocket League Patch Notes v2.49 (Season 18 Live)",
+      "slug": "rocket-league-patch-notes-season-18-live",
+      "category": "Patch Notes",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-season-18-live.jpg",
+      "author": "Laudie Gonzalez",
+      "date": "Mar 14th 2025"
+    },
+    {
       "title": "Rocket League Season 18 Springs Forth Futura Garden",
       "slug": "rocket-league-season-18-springs-forth-futura-garden",
       "category": "Game News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/patch-notes-v2-45.jpg",
       "author": "Devin Conners",
       "date": "Oct 22nd 2024"
-    },
-    {
-      "title": "Introducing Rocket League Match History and Player Profiles!",
-      "slug": "introducing-rocket-league-match-history-and-player-profiles",
-      "category": "Game News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/introducing-rocket-league-match-history-and-player-profiles.jpg",
-      "author": "Psyonix Team",
-      "date": "Oct 21st 2024"
     }
   ]
 }
