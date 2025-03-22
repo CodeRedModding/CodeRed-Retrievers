@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Replacing Esports Tokens With Credits to Make Purchasing in Rocket League Easier",
+      "slug": "replacing-esports-tokens-with-credits-to-make-purchasing-in-rocket-league-easier",
+      "category": "Game News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/replacing-esports-tokens-with-credits-to-make-purchasing-in-rocket-league-easier.jpg",
+      "author": "Psyonix Team",
+      "date": "Mar 21st 2025"
+    },
+    {
       "title": "Rocket League Patch Notes v2.49 (Season 18 Live)",
       "slug": "rocket-league-patch-notes-season-18-live",
       "category": "Patch Notes",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rlcs-is-back-with-a-bang-for-2025.jpg",
       "author": "Psyonix Team",
       "date": "Oct 23rd 2024"
-    },
-    {
-      "title": "Patch Notes v2.45",
-      "slug": "patch-notes-v2-45",
-      "category": "Patch Notes",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/patch-notes-v2-45.jpg",
-      "author": "Devin Conners",
-      "date": "Oct 22nd 2024"
     }
   ]
 }
