@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "RLCS 2025 Birmingham Major Primer + On-Site Guide",
+      "slug": "rlcs-2025-birmingham-major-primer",
+      "category": "Esports News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rlcs-2025-birmingham-major-primer.jpg",
+      "author": "Psyonix Team",
+      "date": "Mar 25th 2025"
+    },
+    {
       "title": "Replacing Esports Tokens With Credits to Make Purchasing in Rocket League Easier",
       "slug": "replacing-esports-tokens-with-credits-to-make-purchasing-in-rocket-league-easier",
       "category": "Game News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-s16-season-rush-kicks-off.jpg",
       "author": "Psyonix Team",
       "date": "Nov 19th 2024"
-    },
-    {
-      "title": "RLCS Is Back With a Bang For 2025!",
-      "slug": "rlcs-is-back-with-a-bang-for-2025",
-      "category": "Esports News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rlcs-is-back-with-a-bang-for-2025.jpg",
-      "author": "Psyonix Team",
-      "date": "Oct 23rd 2024"
     }
   ]
 }
