@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rocket League Patch Notes v2.50",
+      "slug": "patch-notes-v2-50",
+      "category": "Patch Notes",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/patch-notes-v2-50.jpg",
+      "author": "Devin Conners",
+      "date": "Mar 25th 2025"
+    },
+    {
       "title": "RLCS 2025 Birmingham Major Primer + On-Site Guide",
       "slug": "rlcs-2025-birmingham-major-primer",
       "category": "Esports News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/collegiate-rocket-league-spring-2025-preview.jpg",
       "author": "Psyonix Team",
       "date": "Nov 22nd 2024"
-    },
-    {
-      "title": "Rocket League S16’s Season Rush Kicks Off!",
-      "slug": "rocket-league-s16-season-rush-kicks-off",
-      "category": "Game News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-s16-season-rush-kicks-off.jpg",
-      "author": "Psyonix Team",
-      "date": "Nov 19th 2024"
     }
   ]
 }
