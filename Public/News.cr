@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Compete in Rocket League Monthly Cash Cups in 2025!",
+      "slug": "rocket-league-monthly-cash-cups-in-2025",
+      "category": "Esports News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-monthly-cash-cups-in-2025.jpg",
+      "author": "Psyonix Team",
+      "date": "Apr 15th 2025"
+    },
+    {
       "title": "Rocket League Patch Notes v2.50",
       "slug": "patch-notes-v2-50",
       "category": "Patch Notes",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/season-17-brings-online-free-play-as-rocket-league-heads-to-the-arcades.jpg",
       "author": "Psyonix Team",
       "date": "Nov 26th 2024"
-    },
-    {
-      "title": "Collegiate Rocket League Spring 2025 Preview",
-      "slug": "collegiate-rocket-league-spring-2025-preview",
-      "category": "Esports News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/collegiate-rocket-league-spring-2025-preview.jpg",
-      "author": "Psyonix Team",
-      "date": "Nov 22nd 2024"
     }
   ]
 }
