@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Cowabunga Dude: It’s Rocket League | TMNT!",
+      "slug": "cowabunga-dude-its-rocket-league-and-tmnt",
+      "category": "Game News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/cowabunga-dude-its-rocket-league-and-tmnt.jpg",
+      "author": "Psyonix Team",
+      "date": "Apr 21st 2025"
+    },
+    {
       "title": "Compete in Rocket League Monthly Cash Cups in 2025!",
       "slug": "rocket-league-monthly-cash-cups-in-2025",
       "category": "Esports News",
