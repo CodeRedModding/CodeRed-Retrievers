@@ -135,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/patch-notes-v2-46.jpg",
       "author": "Laudie Gonzalez",
       "date": "Dec 3rd 2024"
-    },
-    {
-      "title": "Season 17 Brings Online Free Play as Rocket League Heads to the Arcades",
-      "slug": "season-17-brings-online-free-play-as-rocket-league-heads-to-the-arcades",
-      "category": "Game News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/season-17-brings-online-free-play-as-rocket-league-heads-to-the-arcades.jpg",
-      "author": "Psyonix Team",
-      "date": "Nov 26th 2024"
     }
   ]
 }
