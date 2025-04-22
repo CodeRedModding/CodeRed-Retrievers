@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rocket League Patch Notes v2.51",
+      "slug": "patch-notes-v2-51",
+      "category": "Patch Notes",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/patch-notes-v2-51.jpg",
+      "author": "Laudie Gonzalez",
+      "date": "Apr 22nd 2025"
+    },
+    {
       "title": "Cowabunga Dude: It’s Rocket League | TMNT!",
       "slug": "cowabunga-dude-its-rocket-league-and-tmnt",
       "category": "Game News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/patch-notes-season-17-live.jpg",
       "author": "Laudie Gonzalez",
       "date": "Dec 4th 2024"
-    },
-    {
-      "title": "Rocket League Patch Notes v2.46",
-      "slug": "patch-notes-v2-46",
-      "category": "Game Update",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/patch-notes-v2-46.jpg",
-      "author": "Laudie Gonzalez",
-      "date": "Dec 3rd 2024"
     }
   ]
 }
