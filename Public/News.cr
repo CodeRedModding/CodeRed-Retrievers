@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rocket League Patch Notes v2.52",
+      "slug": "patch-notes-v2-52",
+      "category": "Patch Notes",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/patch-notes-v2-52.jpg",
+      "author": "Psyonix Team",
+      "date": "May 13th 2025"
+    },
+    {
       "title": "Take a Ride on the Dark Side as STAR WARS Returns to Rocket League!",
       "slug": "take-a-ride-on-the-dark-side-as-star-wars-returns-to-rocket-league",
       "category": "Game News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rlcs-2025-updates.jpg",
       "author": "Psyonix Team",
       "date": "Dec 15th 2024"
-    },
-    {
-      "title": "Frosty Fest 2024 Brings Chills and Thrills to Rocket League!",
-      "slug": "frosty-fest-2024-brings-chills-and-thrills-to-rocket-league",
-      "category": "Game News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/frosty-fest-2024-brings-chills-and-thrills-to-rocket-league.jpg",
-      "author": "Psyonix Team",
-      "date": "Dec 10th 2024"
     }
   ]
 }
