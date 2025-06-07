@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "RLCS Last Chance Qualifiers: One Final Shot at the Rocket League World Championship",
+      "slug": "rlcs-last-chance-qualifiers",
+      "category": "Esports News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rlcs-last-chance-qualifiers.jpg",
+      "author": "Psyonix Team",
+      "date": "June 6th 2025"
+    },
+    {
       "title": "Rocket League Patch Notes v2.52",
       "slug": "patch-notes-v2-52",
       "category": "Patch Notes",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/patch-notes-v2-47.jpg",
       "author": "Laudie Gonzalez",
       "date": "Dec 16th 2024"
-    },
-    {
-      "title": "RLCS 2025: Updates",
-      "slug": "rlcs-2025-updates",
-      "category": "Esports News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rlcs-2025-updates.jpg",
-      "author": "Psyonix Team",
-      "date": "Dec 15th 2024"
     }
   ]
 }
