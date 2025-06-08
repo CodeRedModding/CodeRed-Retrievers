@@ -6,7 +6,7 @@
       "category": "Esports News",
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rlcs-last-chance-qualifiers.jpg",
       "author": "Psyonix Team",
-      "date": "June 6th 2025"
+      "date": "Jun 6th 2025"
     },
     {
       "title": "Rocket League Patch Notes v2.52",
