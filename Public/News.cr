@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Time Travel through the Season 18 Rocket Pass in Rocket League’s Season Rush, Plus Competitive Rewards Revealed!",
+      "slug": "time-travel-through-the-season-18-rocket-pass-in-rocket-leagues-season-rush-plus-competitive-rewards-revealed",
+      "category": "Game News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/time-travel-through-the-season-18-rocket-pass-in-rocket-leagues-season-rush-plus-competitive-rewards-revealed.jpg",
+      "author": "Psyonix Team",
+      "date": "Jun 11th 2025"
+    },
+    {
       "title": "RLCS Last Chance Qualifiers: One Final Shot at the Rocket League World Championship",
       "slug": "rlcs-last-chance-qualifiers",
       "category": "Esports News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rlcs-heads-to-north-carolina.jpg",
       "author": "Psyonix Team",
       "date": "Jan 18th 2025"
-    },
-    {
-      "title": "Rocket League Patch Notes v2.47",
-      "slug": "patch-notes-v2-47",
-      "category": "Patch Notes",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/patch-notes-v2-47.jpg",
-      "author": "Laudie Gonzalez",
-      "date": "Dec 16th 2024"
     }
   ]
 }
