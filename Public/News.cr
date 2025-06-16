@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Celebrate 10 Years of Aerials and Epic Saves in Rocket League Season 19!",
+      "slug": "celebrate-10-years-of-aerials-and-epic-saves-in-rocket-league-season-19",
+      "category": "Game News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/celebrate-10-years-of-aerials-and-epic-saves-in-rocket-league-season-19.jpg",
+      "author": "Psyonix Team",
+      "date": "Jun 13th 2025"
+    },
+    {
       "title": "Time Travel through the Season 18 Rocket Pass in Rocket League’s Season Rush, Plus Competitive Rewards Revealed!",
       "slug": "time-travel-through-the-season-18-rocket-pass-in-rocket-leagues-season-rush-plus-competitive-rewards-revealed",
       "category": "Game News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/its-official-not-a-leek-rocket-league-x-hatsune-miku.jpg",
       "author": "Psyonix Team",
       "date": "Jan 28th 2025"
-    },
-    {
-      "title": "RLCS Heads to North Carolina for the Raleigh Major; Tickets on General Sale January 22nd",
-      "slug": "rlcs-heads-to-north-carolina",
-      "category": "Esports News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rlcs-heads-to-north-carolina.jpg",
-      "author": "Psyonix Team",
-      "date": "Jan 18th 2025"
     }
   ]
 }
