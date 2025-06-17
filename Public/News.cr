@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "RLCS 2025 Raleigh Major Primer + On-Site Guide",
+      "slug": "rlcs-2025-raleigh-major-primer",
+      "category": "Esports News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rlcs-2025-raleigh-major-primer.jpg",
+      "author": "Psyonix Team",
+      "date": "Jun 17th 2025"
+    },
+    {
       "title": "Celebrate 10 Years of Aerials and Epic Saves in Rocket League Season 19!",
       "slug": "celebrate-10-years-of-aerials-and-epic-saves-in-rocket-league-season-19",
       "category": "Game News",
@@ -126,14 +134,6 @@
       "category": "Patch Notes",
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/patch-notes-v2-48.jpg",
       "author": "Laudie Gonzalez",
-      "date": "Jan 28th 2025"
-    },
-    {
-      "title": "It’s Official, Not a Leek: Rocket League x Hatsune Miku!",
-      "slug": "its-official-not-a-leek-rocket-league-x-hatsune-miku",
-      "category": "Game News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/its-official-not-a-leek-rocket-league-x-hatsune-miku.jpg",
-      "author": "Psyonix Team",
       "date": "Jan 28th 2025"
     }
   ]
