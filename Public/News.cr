@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rocket League Patch Notes v2.53",
+      "slug": "rocket-league-patch-notes-v2-53",
+      "category": "Patch Notes",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-53.jpg",
+      "author": "Laudie Gonzalez",
+      "date": "Jun 17th 2025"
+    },
+    {
       "title": "RLCS 2025 Raleigh Major Primer + On-Site Guide",
       "slug": "rlcs-2025-raleigh-major-primer",
       "category": "Esports News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-world-championship-2025.jpg",
       "author": "Esports News",
       "date": "Feb 6th 2025"
-    },
-    {
-      "title": "Rocket League Patch Notes v2.48",
-      "slug": "patch-notes-v2-48",
-      "category": "Patch Notes",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/patch-notes-v2-48.jpg",
-      "author": "Laudie Gonzalez",
-      "date": "Jan 28th 2025"
     }
   ]
 }
