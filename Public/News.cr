@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rocket League Patch Notes v2.53: Season 19 Live",
+      "slug": "rocket-league-patch-notes-v2-53-season-19-live",
+      "category": "Patch Notes",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-53-season-19-live.jpg",
+      "author": "Laudie Gonzalez",
+      "date": "Jun 18th 2025"
+    },
+    {
       "title": "Rocket League Patch Notes v2.53",
       "slug": "rocket-league-patch-notes-v2-53",
       "category": "Patch Notes",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/button-mash-through-the-season-17-rocket-pass-in-rocket-leagues-season-rush-plus-competitive-rewards-revealed.jpg",
       "author": "Psyonix Team",
       "date": "Mar 5th 2025"
-    },
-    {
-      "title": "Rocket League World Championship 2025 Preview",
-      "slug": "rocket-league-world-championship-2025",
-      "category": "Patch Notes",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-world-championship-2025.jpg",
-      "author": "Esports News",
-      "date": "Feb 6th 2025"
     }
   ]
 }
