@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Rocket League Patch Notes v2.54",
+      "slug": "rocket-league-patch-notes-v2-54",
+      "category": "Game News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-54.jpg",
+      "author": "Laudie Gonzalez",
+      "date": "Jul 29th 2025"
+    },
+    {
+      "title": "Step into the Chevrolet Corvette ZR1 Car Body in Rocket League’s Summer Road Trip!",
+      "slug": "step-into-the-chevrolet-corvette-zr1-car-body-in-rocket-leagues-summer-road-trip",
+      "category": "Game News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/step-into-the-chevrolet-corvette-zr1-car-body-in-rocket-leagues-summer-road-trip.jpg",
+      "author": "Psyonix Team",
+      "date": "Jul 21st 2025"
+    },
+    {
       "title": "Rocket League Patch Notes v2.53: Season 19 Live",
       "slug": "rocket-league-patch-notes-v2-53-season-19-live",
       "category": "Patch Notes",
@@ -119,22 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-season-18-live.jpg",
       "author": "Laudie Gonzalez",
       "date": "Mar 14th 2025"
-    },
-    {
-      "title": "Rocket League Season 18 Springs Forth Futura Garden",
-      "slug": "rocket-league-season-18-springs-forth-futura-garden",
-      "category": "Game News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-season-18-springs-forth-futura-garden.jpg",
-      "author": "Psyonix Team",
-      "date": "Mar 10th 2025"
-    },
-    {
-      "title": "Button Mash through the Season 17 Rocket Pass in Rocket League’s Season Rush + Competitive Rewards Revealed!",
-      "slug": "button-mash-through-the-season-17-rocket-pass-in-rocket-leagues-season-rush-plus-competitive-rewards-revealed",
-      "category": "Game News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/button-mash-through-the-season-17-rocket-pass-in-rocket-leagues-season-rush-plus-competitive-rewards-revealed.jpg",
-      "author": "Psyonix Team",
-      "date": "Mar 5th 2025"
     }
   ]
 }
