@@ -3,7 +3,7 @@
     {
       "title": "Rocket League Patch Notes v2.54",
       "slug": "rocket-league-patch-notes-v2-54",
-      "category": "Game News",
+      "category": "Patch Notes",
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-54.jpg",
       "author": "Laudie Gonzalez",
       "date": "Jul 29th 2025"
