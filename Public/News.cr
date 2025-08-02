@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "deadmau5 Headlines Rocket League to Mark 10 Years of Soccar!",
+      "slug": "deadmau5-headlines-rocket-league-to-mark-10-years-of-soccar",
+      "category": "Game News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/deadmau5-headlines-rocket-league-to-mark-10-years-of-soccar.jpg",
+      "author": "Psyonix Team",
+      "date": "Jul 31st 2025"
+    },
+    {
       "title": "Rocket League Patch Notes v2.54",
       "slug": "rocket-league-patch-notes-v2-54",
       "category": "Patch Notes",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/replacing-esports-tokens-with-credits-to-make-purchasing-in-rocket-league-easier.jpg",
       "author": "Psyonix Team",
       "date": "Mar 21st 2025"
-    },
-    {
-      "title": "Rocket League Patch Notes v2.49 (Season 18 Live)",
-      "slug": "rocket-league-patch-notes-season-18-live",
-      "category": "Patch Notes",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-season-18-live.jpg",
-      "author": "Laudie Gonzalez",
-      "date": "Mar 14th 2025"
     }
   ]
 }
