@@ -1,12 +1,20 @@
 {
   "news": [
     {
+      "title": "The Rave Roller Wheels Echo Across Rocket League!",
+      "slug": "the-rave-roller-wheels-echo-across-rocket-league",
+      "category": "Game News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/the-rave-roller-wheels-echo-across-rocket-league.jpg",
+      "author": "Psyonix Team",
+      "date": "Aug 19th 2025"
+    },
+    {
       "title": "deadmau5 Headlines Rocket League to Mark 10 Years of Soccar!",
       "slug": "deadmau5-headlines-rocket-league-to-mark-10-years-of-soccar",
       "category": "Game News",
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/deadmau5-headlines-rocket-league-to-mark-10-years-of-soccar.jpg",
       "author": "Psyonix Team",
-      "date": "Jul 31st 2025"
+      "date": "Jul 31stt 2025"
     },
     {
       "title": "Rocket League Patch Notes v2.54",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rlcs-2025-birmingham-major-primer.jpg",
       "author": "Psyonix Team",
       "date": "Mar 25th 2025"
-    },
-    {
-      "title": "Replacing Esports Tokens With Credits to Make Purchasing in Rocket League Easier",
-      "slug": "replacing-esports-tokens-with-credits-to-make-purchasing-in-rocket-league-easier",
-      "category": "Game News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/replacing-esports-tokens-with-credits-to-make-purchasing-in-rocket-league-easier.jpg",
-      "author": "Psyonix Team",
-      "date": "Mar 21st 2025"
     }
   ]
 }
