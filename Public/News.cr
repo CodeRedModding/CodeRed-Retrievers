@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rocket League Patch Notes v2.55",
+      "slug": "rocket-league-patch-notes-v2-55",
+      "category": "Patch Notes",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-55.jpg",
+      "author": "Psyonix Team",
+      "date": "Aug 20th 2025"
+    },
+    {
       "title": "The Rave Roller Wheels Echo Across Rocket League!",
       "slug": "the-rave-roller-wheels-echo-across-rocket-league",
       "category": "Game News",
@@ -126,14 +134,6 @@
       "category": "Patch Notes",
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/patch-notes-v2-50.jpg",
       "author": "Devin Conners",
-      "date": "Mar 25th 2025"
-    },
-    {
-      "title": "RLCS 2025 Birmingham Major Primer + On-Site Guide",
-      "slug": "rlcs-2025-birmingham-major-primer",
-      "category": "Esports News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rlcs-2025-birmingham-major-primer.jpg",
-      "author": "Psyonix Team",
       "date": "Mar 25th 2025"
     }
   ]
