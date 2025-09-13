@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Head to the Boostfield Mall in Rocket League Season 20!",
+      "slug": "head-to-the-boostfield-mall-in-rocket-league-season-20",
+      "category": "Game News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/head-to-the-boostfield-mall-in-rocket-league-season-20.jpg",
+      "author": "Psyonix Team",
+      "date": "Sep 12th 2025"
+    },
+    {
       "title": "Champions Road Returns to Rocket League for Season 19 Part 3!",
       "slug": "champions-road-returns-to-rocket-league-for-season-19-part-3",
       "category": "Game News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/cowabunga-dude-its-rocket-league-and-tmnt.jpg",
       "author": "Psyonix Team",
       "date": "Apr 21st 2025"
-    },
-    {
-      "title": "Compete in Rocket League Monthly Cash Cups in 2025!",
-      "slug": "rocket-league-monthly-cash-cups-in-2025",
-      "category": "Esports News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-monthly-cash-cups-in-2025.jpg",
-      "author": "Psyonix Team",
-      "date": "Apr 15th 2025"
     }
   ]
 }
