@@ -1,12 +1,28 @@
 {
   "news": [
     {
+      "title": "Get Ready for the Rocket League Championship Series’ 2026 Season!",
+      "slug": "rocket-league-championship-series-2026-season",
+      "category": "Esports News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-championship-series-2026-season.jpg",
+      "author": "Psyonix Team",
+      "date": "Sep 14th 2025"
+    },
+    {
       "title": "Head to the Boostfield Mall in Rocket League Season 20!",
       "slug": "head-to-the-boostfield-mall-in-rocket-league-season-20",
       "category": "Game News",
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/head-to-the-boostfield-mall-in-rocket-league-season-20.jpg",
       "author": "Psyonix Team",
       "date": "Sep 12th 2025"
+    },
+    {
+      "title": "2025 Rocket League World Championship Primer + On-Site Guide",
+      "slug": "2025-rocket-league-world-championship-primer",
+      "category": "Esports News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/2025-rocket-league-world-championship-primer.jpg",
+      "author": "Psyonix Team",
+      "date": "Sep 8th 2025"
     },
     {
       "title": "Champions Road Returns to Rocket League for Season 19 Part 3!",
@@ -119,22 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/take-a-ride-on-the-dark-side-as-star-wars-returns-to-rocket-league.jpg",
       "author": "Psyonix Team",
       "date": "May 1st 2025"
-    },
-    {
-      "title": "Rocket League Patch Notes v2.51",
-      "slug": "patch-notes-v2-51",
-      "category": "Patch Notes",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/patch-notes-v2-51.jpg",
-      "author": "Laudie Gonzalez",
-      "date": "Apr 22nd 2025"
-    },
-    {
-      "title": "Cowabunga Dude: It’s Rocket League | TMNT!",
-      "slug": "cowabunga-dude-its-rocket-league-and-tmnt",
-      "category": "Game News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/cowabunga-dude-its-rocket-league-and-tmnt.jpg",
-      "author": "Psyonix Team",
-      "date": "Apr 21st 2025"
     }
   ]
 }
