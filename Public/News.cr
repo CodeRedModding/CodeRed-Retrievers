@@ -1,12 +1,12 @@
 {
   "news": [
     {
-      "title": "Get Ready for the Rocket League Championship Series’ 2026 Season!",
-      "slug": "rocket-league-championship-series-2026-season",
-      "category": "Esports News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-championship-series-2026-season.jpg",
+      "title": "Rocket League Patch Notes v2.56: Season 20 Live",
+      "slug": "rocket-league-patch-notes-v2-56-season-20-live",
+      "category": "Patch Notes",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-56-season-20-live.jpg",
       "author": "Psyonix Team",
-      "date": "Sep 14th 2025"
+      "date": "Sep 17th 2025"
     },
     {
       "title": "Head to the Boostfield Mall in Rocket League Season 20!",
@@ -127,14 +127,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/patch-notes-v2-52.jpg",
       "author": "Psyonix Team",
       "date": "May 13th 2025"
-    },
-    {
-      "title": "Take a Ride on the Dark Side as STAR WARS Returns to Rocket League!",
-      "slug": "take-a-ride-on-the-dark-side-as-star-wars-returns-to-rocket-league",
-      "category": "Game News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/take-a-ride-on-the-dark-side-as-star-wars-returns-to-rocket-league.jpg",
-      "author": "Psyonix Team",
-      "date": "May 1st 2025"
     }
   ]
 }
