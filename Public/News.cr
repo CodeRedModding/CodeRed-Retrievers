@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rocket League x Sonic the Hedgehog: Gotta Go… You Know the Rest!",
+      "slug": "rocket-league-x-sonic-the-hedgehog-gotta-go-you-know-the-rest",
+      "category": "Game News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-56-season-20-live.jpg",
+      "author": "Psyonix Team",
+      "date": "Sep 21st 2025"
+    },
+    {
       "title": "Rocket League Patch Notes v2.56: Season 20 Live",
       "slug": "rocket-league-patch-notes-v2-56-season-20-live",
       "category": "Patch Notes",
