@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rocket League Patch Notes v2.58",
+      "slug": "rocket-league-patch-notes-v2-58",
+      "category": "Patch Notes",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-58.jpg",
+      "author": "Psyonix Team",
+      "date": "Oct 1st 2025"
+    },
+    {
       "title": "Rocket League x Sonic the Hedgehog: Gotta Go… You Know the Rest!",
       "slug": "rocket-league-x-sonic-the-hedgehog-gotta-go-you-know-the-rest",
       "category": "Game News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rlcs-last-chance-qualifiers.jpg",
       "author": "Psyonix Team",
       "date": "Jun 6th 2025"
-    },
-    {
-      "title": "Rocket League Patch Notes v2.52",
-      "slug": "patch-notes-v2-52",
-      "category": "Patch Notes",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/patch-notes-v2-52.jpg",
-      "author": "Psyonix Team",
-      "date": "May 13th 2025"
     }
   ]
 }
