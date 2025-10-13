@@ -6,7 +6,7 @@
       "category": "Game News",
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/hop-in-the-mystery-machine-for-rocket-league-haunted-hallows-2025.jpg",
       "author": "Psyonix Team",
-      "date": "Oct 12th 2025"
+      "date": "Oct 13th 2025"
     },
     {
       "title": "Rocket League Patch Notes v2.58",
