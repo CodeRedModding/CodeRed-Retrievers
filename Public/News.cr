@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Hop in the Mystery Machine for Rocket League Haunted Hallows 2025",
+      "slug": "hop-in-the-mystery-machine-for-rocket-league-haunted-hallows-2025",
+      "category": "Game News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/hop-in-the-mystery-machine-for-rocket-league-haunted-hallows-2025.jpg",
+      "author": "Psyonix Team",
+      "date": "Oct 12th 2025"
+    },
+    {
       "title": "Rocket League Patch Notes v2.58",
       "slug": "rocket-league-patch-notes-v2-58",
       "category": "Patch Notes",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/time-travel-through-the-season-18-rocket-pass-in-rocket-leagues-season-rush-plus-competitive-rewards-revealed.jpg",
       "author": "Psyonix Team",
       "date": "Jun 11th 2025"
-    },
-    {
-      "title": "RLCS Last Chance Qualifiers: One Final Shot at the Rocket League World Championship",
-      "slug": "rlcs-last-chance-qualifiers",
-      "category": "Esports News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rlcs-last-chance-qualifiers.jpg",
-      "author": "Psyonix Team",
-      "date": "Jun 6th 2025"
     }
   ]
 }
