@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rocket League Patch Notes v2.59",
+      "slug": "rocket-league-patch-notes-v2-59",
+      "category": "Patch Notes",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-59.jpg",
+      "author": "Psyonix Team",
+      "date": "Oct 14th 2025"
+    },
+    {
       "title": "Hop in the Mystery Machine for Rocket League Haunted Hallows 2025",
       "slug": "hop-in-the-mystery-machine-for-rocket-league-haunted-hallows-2025",
       "category": "Game News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/celebrate-10-years-of-aerials-and-epic-saves-in-rocket-league-season-19.jpg",
       "author": "Psyonix Team",
       "date": "Jun 13th 2025"
-    },
-    {
-      "title": "Time Travel through the Season 18 Rocket Pass in Rocket League’s Season Rush, Plus Competitive Rewards Revealed!",
-      "slug": "time-travel-through-the-season-18-rocket-pass-in-rocket-leagues-season-rush-plus-competitive-rewards-revealed",
-      "category": "Game News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/time-travel-through-the-season-18-rocket-pass-in-rocket-leagues-season-rush-plus-competitive-rewards-revealed.jpg",
-      "author": "Psyonix Team",
-      "date": "Jun 11th 2025"
     }
   ]
 }
