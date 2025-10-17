@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rocket League Patch Notes v2.60",
+      "slug": "rocket-league-patch-notes-v2-60",
+      "category": "Patch Notes",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-60.jpg",
+      "author": "Psyonix Team",
+      "date": "Oct 17th 2025"
+    },
+    {
       "title": "Rocket League Patch Notes v2.59",
       "slug": "rocket-league-patch-notes-v2-59",
       "category": "Patch Notes",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rlcs-2025-raleigh-major-primer.jpg",
       "author": "Psyonix Team",
       "date": "Jun 17th 2025"
-    },
-    {
-      "title": "Celebrate 10 Years of Aerials and Epic Saves in Rocket League Season 19!",
-      "slug": "celebrate-10-years-of-aerials-and-epic-saves-in-rocket-league-season-19",
-      "category": "Game News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/celebrate-10-years-of-aerials-and-epic-saves-in-rocket-league-season-19.jpg",
-      "author": "Psyonix Team",
-      "date": "Jun 13th 2025"
     }
   ]
 }
