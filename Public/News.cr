@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Register for RLCS 2026 Today and Compete for a Share of the $6.1M Prize Pool!",
+      "slug": "register-for-rlcs-2026-today-and-compete-for-a-share-of-the-6-1-million-dollar-prize-pool",
+      "category": "Esports News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/register-for-rlcs-2026-today-and-compete-for-a-share-of-the-6-1-million-dollar-prize-pool.jpg",
+      "author": "Psyonix Team",
+      "date": "Oct 27th 2025"
+    },
+    {
       "title": "Rocket League Patch Notes v2.60",
       "slug": "rocket-league-patch-notes-v2-60",
       "category": "Patch Notes",
@@ -126,14 +134,6 @@
       "category": "Patch Notes",
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-53.jpg",
       "author": "Laudie Gonzalez",
-      "date": "Jun 17th 2025"
-    },
-    {
-      "title": "RLCS 2025 Raleigh Major Primer + On-Site Guide",
-      "slug": "rlcs-2025-raleigh-major-primer",
-      "category": "Esports News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rlcs-2025-raleigh-major-primer.jpg",
-      "author": "Psyonix Team",
       "date": "Jun 17th 2025"
     }
   ]
