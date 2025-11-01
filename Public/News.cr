@@ -6,7 +6,7 @@
       "category": "Microtransaction News",
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/drive-like-youre-in-springfield-with-rocket-league-x-the-simpsons.jpg",
       "author": "Psyonix Team",
-      "date": "November 1st 2025"
+      "date": "Nov 1st 2025"
     },
     {
       "title": "Register for RLCS 2026 Today and Compete for a Share of the $6.1M Prize Pool!",
