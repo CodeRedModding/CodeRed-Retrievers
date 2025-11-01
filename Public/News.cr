@@ -35,7 +35,7 @@
     {
       "title": "Hop in the Mystery Machine for Rocket League Haunted Hallows 2025",
       "slug": "hop-in-the-mystery-machine-for-rocket-league-haunted-hallows-2025",
-      "category": "Game News",
+      "category": "Microtransaction News",
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/hop-in-the-mystery-machine-for-rocket-league-haunted-hallows-2025.jpg",
       "author": "Psyonix Team",
       "date": "Oct 13th 2025"
