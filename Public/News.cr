@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Drive Like You’re in Springfield with Rocket League x The Simpsons!",
+      "slug": "drive-like-youre-in-springfield-with-rocket-league-x-the-simpsons",
+      "category": "Microtransaction News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/drive-like-youre-in-springfield-with-rocket-league-x-the-simpsons.jpg",
+      "author": "Psyonix Team",
+      "date": "November 1st 2025"
+    },
+    {
       "title": "Register for RLCS 2026 Today and Compete for a Share of the $6.1M Prize Pool!",
       "slug": "register-for-rlcs-2026-today-and-compete-for-a-share-of-the-6-1-million-dollar-prize-pool",
       "category": "Esports News",
@@ -43,7 +51,7 @@
     {
       "title": "Rocket League x Sonic the Hedgehog: Gotta Go… You Know the Rest!",
       "slug": "rocket-league-x-sonic-the-hedgehog-gotta-go-you-know-the-rest",
-      "category": "Game News",
+      "category": "Microtransaction News",
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-x-sonic-the-hedgehog-gotta-go-you-know-the-rest.jpg",
       "author": "Psyonix Team",
       "date": "Sep 21st 2025"
@@ -99,7 +107,7 @@
     {
       "title": "deadmau5 Headlines Rocket League to Mark 10 Years of Soccar!",
       "slug": "deadmau5-headlines-rocket-league-to-mark-10-years-of-soccar",
-      "category": "Game News",
+      "category": "Microtransaction News",
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/deadmau5-headlines-rocket-league-to-mark-10-years-of-soccar.jpg",
       "author": "Psyonix Team",
       "date": "Jul 31stt 2025"
@@ -115,7 +123,7 @@
     {
       "title": "Step into the Chevrolet Corvette ZR1 Car Body in Rocket League’s Summer Road Trip!",
       "slug": "step-into-the-chevrolet-corvette-zr1-car-body-in-rocket-leagues-summer-road-trip",
-      "category": "Game News",
+      "category": "Microtransaction News",
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/step-into-the-chevrolet-corvette-zr1-car-body-in-rocket-leagues-summer-road-trip.jpg",
       "author": "Psyonix Team",
       "date": "Jul 21st 2025"
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-53-season-19-live.jpg",
       "author": "Laudie Gonzalez",
       "date": "Jun 18th 2025"
-    },
-    {
-      "title": "Rocket League Patch Notes v2.53",
-      "slug": "rocket-league-patch-notes-v2-53",
-      "category": "Patch Notes",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-53.jpg",
-      "author": "Laudie Gonzalez",
-      "date": "Jun 17th 2025"
     }
   ]
 }
