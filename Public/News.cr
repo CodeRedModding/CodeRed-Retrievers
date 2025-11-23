@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "RLCS Returns to Boston for First Major of the 2026 Season - Tickets on General Sale November 25",
+      "slug": "rlcs-returns-to-boston-for-first-major-of-the-2026-season-tickets-on-general-sale-november-25",
+      "category": "Esports News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rlcs-returns-to-boston-for-first-major-of-the-2026-season-tickets-on-general-sale-november-25.jpg",
+      "author": "Psyonix Team",
+      "date": "Nov 22nd 2025"
+    },
+    {
+      "title": "RLCS 2026 Kicks Off with Open 1",
+      "slug": "rlcs-2026-open-1",
+      "category": "Esports News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rlcs-2026-open-1.jpg",
+      "author": "Psyonix Team",
+      "date": "Nov 21st 2025"
+    },
+    {
       "title": "Drive Like You’re in Springfield with Rocket League x The Simpsons!",
       "slug": "drive-like-youre-in-springfield-with-rocket-league-x-the-simpsons",
       "category": "Microtransaction News",
@@ -119,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-54.jpg",
       "author": "Laudie Gonzalez",
       "date": "Jul 29th 2025"
-    },
-    {
-      "title": "Step into the Chevrolet Corvette ZR1 Car Body in Rocket League’s Summer Road Trip!",
-      "slug": "step-into-the-chevrolet-corvette-zr1-car-body-in-rocket-leagues-summer-road-trip",
-      "category": "Microtransaction News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/step-into-the-chevrolet-corvette-zr1-car-body-in-rocket-leagues-summer-road-trip.jpg",
-      "author": "Psyonix Team",
-      "date": "Jul 21st 2025"
     }
   ]
 }
