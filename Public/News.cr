@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rocket League Drop Rush: Earn In-Game Items, Fuel the Next Season Hype!",
+      "slug": "rocket-league-drop-rush-earn-in-game-items-fuel-the-next-season-hype",
+      "category": "Microtransaction News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-drop-rush-earn-in-game-items-fuel-the-next-season-hype.jpg",
+      "author": "Psyonix Team",
+      "date": "Dec 3rd 2025"
+    },
+    {
       "title": "RLCS Returns to Boston for First Major of the 2026 Season - Tickets on General Sale November 25",
       "slug": "rlcs-returns-to-boston-for-first-major-of-the-2026-season-tickets-on-general-sale-november-25",
       "category": "Esports News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/deadmau5-headlines-rocket-league-to-mark-10-years-of-soccar.jpg",
       "author": "Psyonix Team",
       "date": "Jul 31stt 2025"
-    },
-    {
-      "title": "Rocket League Patch Notes v2.54",
-      "slug": "rocket-league-patch-notes-v2-54",
-      "category": "Patch Notes",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-54.jpg",
-      "author": "Laudie Gonzalez",
-      "date": "Jul 29th 2025"
     }
   ]
 }
