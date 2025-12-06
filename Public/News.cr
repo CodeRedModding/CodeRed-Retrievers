@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rocket League Season 21: Pursuit in Paris!",
+      "slug": "rocket-league-season-21-pursuit-in-paris",
+      "category": "Game News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-season-21-pursuit-in-paris.jpg",
+      "author": "Psyonix Team",
+      "date": "Dec 5th 2025"
+    },
+    {
       "title": "Rocket League Drop Rush: Earn In-Game Items, Fuel the Next Season Hype!",
       "slug": "rocket-league-drop-rush-earn-in-game-items-fuel-the-next-season-hype",
       "category": "Microtransaction News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/the-rave-roller-wheels-echo-across-rocket-league.jpg",
       "author": "Psyonix Team",
       "date": "Aug 19th 2025"
-    },
-    {
-      "title": "deadmau5 Headlines Rocket League to Mark 10 Years of Soccar!",
-      "slug": "deadmau5-headlines-rocket-league-to-mark-10-years-of-soccar",
-      "category": "Microtransaction News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/deadmau5-headlines-rocket-league-to-mark-10-years-of-soccar.jpg",
-      "author": "Psyonix Team",
-      "date": "Jul 31stt 2025"
     }
   ]
 }
