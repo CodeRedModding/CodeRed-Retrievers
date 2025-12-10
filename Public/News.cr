@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rocket League Patch Notes v2.63: Season 21 Live",
+      "slug": "rocket-league-patch-notes-v2-63-season-21-live",
+      "category": "Patch Notes",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-63-season-21-live.jpg",
+      "author": "Psyonix Team",
+      "date": "Dec 10th 2025"
+    },
+    {
       "title": "Rocket League Patch Notes v2.63",
       "slug": "rocket-league-patch-notes-v2-63",
       "category": "Patch Notes",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/champions-road-returns-to-rocket-league-for-season-19-part-3.jpg",
       "author": "Psyonix Team",
       "date": "Sep 2nd 2025"
-    },
-    {
-      "title": "Rocket League Patch Notes v2.55",
-      "slug": "rocket-league-patch-notes-v2-55",
-      "category": "Patch Notes",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-55.jpg",
-      "author": "Psyonix Team",
-      "date": "Aug 20th 2025"
     }
   ]
 }
