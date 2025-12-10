@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rocket League Patch Notes v2.63",
+      "slug": "rocket-league-patch-notes-v2-63",
+      "category": "Patch Notes",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-63.jpg",
+      "author": "Psyonix Team",
+      "date": "Dec 9th 2025"
+    },
+    {
       "title": "Rocket League Season 21: Pursuit in Paris!",
       "slug": "rocket-league-season-21-pursuit-in-paris",
       "category": "Game News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-55.jpg",
       "author": "Psyonix Team",
       "date": "Aug 20th 2025"
-    },
-    {
-      "title": "The Rave Roller Wheels Echo Across Rocket League!",
-      "slug": "the-rave-roller-wheels-echo-across-rocket-league",
-      "category": "Game News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/the-rave-roller-wheels-echo-across-rocket-league.jpg",
-      "author": "Psyonix Team",
-      "date": "Aug 19th 2025"
     }
   ]
 }
