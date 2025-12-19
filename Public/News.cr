@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rep Your Hogwarts House in Rocket League Frosty Fest 2025!",
+      "slug": "rep-your-hogwarts-house-in-rocket-league-frosty-fest-2025",
+      "category": "Game News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rep-your-hogwarts-house-in-rocket-league-frosty-fest-2025.jpg",
+      "author": "Psyonix Team",
+      "date": "Dec 18th 2025"
+    },
+    {
       "title": "Rocket League Patch Notes v2.63: Season 21 Live",
       "slug": "rocket-league-patch-notes-v2-63-season-21-live",
       "category": "Patch Notes",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/2025-rocket-league-world-championship-primer.jpg",
       "author": "Psyonix Team",
       "date": "Sep 8th 2025"
-    },
-    {
-      "title": "Champions Road Returns to Rocket League for Season 19 Part 3!",
-      "slug": "champions-road-returns-to-rocket-league-for-season-19-part-3",
-      "category": "Game News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/champions-road-returns-to-rocket-league-for-season-19-part-3.jpg",
-      "author": "Psyonix Team",
-      "date": "Sep 2nd 2025"
     }
   ]
 }
