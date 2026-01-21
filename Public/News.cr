@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Cartman’s Crash Out: The Boys from South Park, Colorado Cause Chaos in Rocket League",
+      "slug": "cartmans-crash-out-the-boys-from-south-park-colorado-cause-chaos-in-rocket-league",
+      "category": "Microtransaction News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/cartmans-crash-out-the-boys-from-south-park-colorado-cause-chaos-in-rocket-league.jpg",
+      "author": "Psyonix Team",
+      "date": "Jan 21st 2025"
+    },
+    {
       "title": "Rep Your Hogwarts House in Rocket League Frosty Fest 2025!",
       "slug": "rep-your-hogwarts-house-in-rocket-league-frosty-fest-2025",
       "category": "Game News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/head-to-the-boostfield-mall-in-rocket-league-season-20.jpg",
       "author": "Psyonix Team",
       "date": "Sep 12th 2025"
-    },
-    {
-      "title": "2025 Rocket League World Championship Primer + On-Site Guide",
-      "slug": "2025-rocket-league-world-championship-primer",
-      "category": "Esports News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/2025-rocket-league-world-championship-primer.jpg",
-      "author": "Psyonix Team",
-      "date": "Sep 8th 2025"
     }
   ]
 }
