@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rocket League Patch Notes v2.64",
+      "slug": "rocket-league-patch-notes-v2-64",
+      "category": "Patch Notes",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-64.jpg",
+      "author": "Psyonix Team",
+      "date": "Jan 22nd 2025"
+    },
+    {
       "title": "Cartman’s Crash Out: The Boys from South Park, Colorado Cause Chaos in Rocket League",
       "slug": "cartmans-crash-out-the-boys-from-south-park-colorado-cause-chaos-in-rocket-league",
       "category": "Microtransaction News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-56-season-20-live.jpg",
       "author": "Psyonix Team",
       "date": "Sep 17th 2025"
-    },
-    {
-      "title": "Head to the Boostfield Mall in Rocket League Season 20!",
-      "slug": "head-to-the-boostfield-mall-in-rocket-league-season-20",
-      "category": "Game News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/head-to-the-boostfield-mall-in-rocket-league-season-20.jpg",
-      "author": "Psyonix Team",
-      "date": "Sep 12th 2025"
     }
   ]
 }
