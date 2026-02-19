@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Get Drops While Cheering On Your Favorite Team in the RLCS Boston Major",
+      "slug": "get-drops-while-cheering-on-your-favorite-team-in-the-rlcs-boston-major",
+      "category": "Esports News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/get-drops-while-cheering-on-your-favorite-team-in-the-rlcs-boston-major.jpg",
+      "author": "Psyonix Team",
+      "date": "Feb 18th 2025"
+    },
+    {
       "title": "Earn Sweet In-Game Rewards in Rocket League Goalentines!",
       "slug": "earn-sweet-in-game-rewards-in-rocket-league-goalentines",
       "category": "Game News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/hop-in-the-mystery-machine-for-rocket-league-haunted-hallows-2025.jpg",
       "author": "Psyonix Team",
       "date": "Oct 13th 2025"
-    },
-    {
-      "title": "Rocket League Patch Notes v2.58",
-      "slug": "rocket-league-patch-notes-v2-58",
-      "category": "Patch Notes",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-58.jpg",
-      "author": "Psyonix Team",
-      "date": "Oct 1st 2025"
     }
   ]
 }
