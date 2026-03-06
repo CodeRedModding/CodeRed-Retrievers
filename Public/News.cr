@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "Rocket League Season 22: Training, Rivalries & Rewards",
+      "slug": "rocket-league-season-22-training-rivalries-and-rewards",
+      "category": "Game News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-season-22-training-rivalries-and-rewards.jpg",
+      "author": "Psyonix Team",
+      "date": "March 6th 2025"
+    },
+    {
+      "title": "At the 2026 RLCS Boston Major, Gentle Mates Get the Win",
+      "slug": "at-the-2026-rlcs-boston-major-gentle-mates-get-the-win",
+      "category": "Esports News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/at-the-2026-rlcs-boston-major-gentle-mates-get-the-win.jpg",
+      "author": "Psyonix Team",
+      "date": "March 4th 2025"
+    },
+    {
       "title": "Get Drops While Cheering On Your Favorite Team in the RLCS Boston Major",
       "slug": "get-drops-while-cheering-on-your-favorite-team-in-the-rlcs-boston-major",
       "category": "Esports News",
@@ -119,22 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-60.jpg",
       "author": "Psyonix Team",
       "date": "Oct 17th 2025"
-    },
-    {
-      "title": "Rocket League Patch Notes v2.59",
-      "slug": "rocket-league-patch-notes-v2-59",
-      "category": "Patch Notes",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-59.jpg",
-      "author": "Psyonix Team",
-      "date": "Oct 14th 2025"
-    },
-    {
-      "title": "Hop in the Mystery Machine for Rocket League Haunted Hallows 2025",
-      "slug": "hop-in-the-mystery-machine-for-rocket-league-haunted-hallows-2025",
-      "category": "Microtransaction News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/hop-in-the-mystery-machine-for-rocket-league-haunted-hallows-2025.jpg",
-      "author": "Psyonix Team",
-      "date": "Oct 13th 2025"
     }
   ]
 }
