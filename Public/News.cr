@@ -1,12 +1,20 @@
 {
   "news": [
     {
+      "title": "Rocket League Patch Notes v2.66",
+      "slug": "rocket-league-patch-notes-v2-66",
+      "category": "Patch Notes",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-66.jpg",
+      "author": "Psyonix Team",
+      "date": "Mar 10th 2025"
+    },
+    {
       "title": "Rocket League Season 22: Training, Rivalries & Rewards",
       "slug": "rocket-league-season-22-training-rivalries-and-rewards",
       "category": "Game News",
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-season-22-training-rivalries-and-rewards.jpg",
       "author": "Psyonix Team",
-      "date": "March 6th 2025"
+      "date": "Mar 6th 2025"
     },
     {
       "title": "At the 2026 RLCS Boston Major, Gentle Mates Get the Win",
@@ -14,7 +22,7 @@
       "category": "Esports News",
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/at-the-2026-rlcs-boston-major-gentle-mates-get-the-win.jpg",
       "author": "Psyonix Team",
-      "date": "March 4th 2025"
+      "date": "Mar 4th 2025"
     },
     {
       "title": "Get Drops While Cheering On Your Favorite Team in the RLCS Boston Major",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/register-for-rlcs-2026-today-and-compete-for-a-share-of-the-6-1-million-dollar-prize-pool.jpg",
       "author": "Psyonix Team",
       "date": "Oct 27th 2025"
-    },
-    {
-      "title": "Rocket League Patch Notes v2.60",
-      "slug": "rocket-league-patch-notes-v2-60",
-      "category": "Patch Notes",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-60.jpg",
-      "author": "Psyonix Team",
-      "date": "Oct 17th 2025"
     }
   ]
 }
