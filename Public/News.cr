@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rocket League Patch Notes v2.66: Season 22 Live",
+      "slug": "rocket-league-patch-notes-v2-66-season-22-live",
+      "category": "Game News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-66-season-22-live",
+      "author": "Psyonix Team",
+      "date": "Mar 11th 2025"
+    },
+    {
       "title": "Rocket League Patch Notes v2.66",
       "slug": "rocket-league-patch-notes-v2-66",
       "category": "Patch Notes",
@@ -75,7 +83,7 @@
     {
       "title": "Rocket League Patch Notes v2.63: Season 21 Live",
       "slug": "rocket-league-patch-notes-v2-63-season-21-live",
-      "category": "Patch Notes",
+      "category": "Game News",
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-63-season-21-live.jpg",
       "author": "Psyonix Team",
       "date": "Dec 10th 2025"
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/drive-like-youre-in-springfield-with-rocket-league-x-the-simpsons.jpg",
       "author": "Psyonix Team",
       "date": "Nov 1st 2025"
-    },
-    {
-      "title": "Register for RLCS 2026 Today and Compete for a Share of the $6.1M Prize Pool!",
-      "slug": "register-for-rlcs-2026-today-and-compete-for-a-share-of-the-6-1-million-dollar-prize-pool",
-      "category": "Esports News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/register-for-rlcs-2026-today-and-compete-for-a-share-of-the-6-1-million-dollar-prize-pool.jpg",
-      "author": "Psyonix Team",
-      "date": "Oct 27th 2025"
     }
   ]
 }
