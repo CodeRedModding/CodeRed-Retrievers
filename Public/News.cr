@@ -1,10 +1,18 @@
 {
   "news": [
     {
+      "title": "From the Court to the Pitch - Unlock Jordan Items in Rocket League Starting March 26",
+      "slug": "from-the-court-to-the-pitch-unlock-jordan-items-in-rocket-league-starting-march-26",
+      "category": "Microtransaction News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/from-the-court-to-the-pitch-unlock-jordan-items-in-rocket-league-starting-march-26.jpg",
+      "author": "Psyonix Team",
+      "date": "Mar 25th 2025"
+    },
+    {
       "title": "Rocket League Patch Notes v2.66: Season 22 Live",
       "slug": "rocket-league-patch-notes-v2-66-season-22-live",
       "category": "Game News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-66-season-22-live",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-66-season-22-live.jpg",
       "author": "Psyonix Team",
       "date": "Mar 11th 2025"
     },
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rlcs-2026-open-1.jpg",
       "author": "Psyonix Team",
       "date": "Nov 21st 2025"
-    },
-    {
-      "title": "Drive Like You’re in Springfield with Rocket League x The Simpsons!",
-      "slug": "drive-like-youre-in-springfield-with-rocket-league-x-the-simpsons",
-      "category": "Microtransaction News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/drive-like-youre-in-springfield-with-rocket-league-x-the-simpsons.jpg",
-      "author": "Psyonix Team",
-      "date": "Nov 1st 2025"
     }
   ]
 }
