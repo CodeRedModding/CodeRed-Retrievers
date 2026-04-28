@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Easy Anti-Cheat Comes to Rocket League on PC Today",
+      "slug": "easy-anti-cheat-comes-to-rocket-league-on-pc-today",
+      "category": "Gane News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/easy-anti-cheat-comes-to-rocket-league-on-pc-today.jpg",
+      "author": "Psyonix Team",
+      "date": "Apr 28th 2025"
+    },
+    {
       "title": "From the Court to the Pitch - Unlock Jordan Items in Rocket League Starting March 26",
       "slug": "from-the-court-to-the-pitch-unlock-jordan-items-in-rocket-league-starting-march-26",
       "category": "Microtransaction News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rlcs-returns-to-boston-for-first-major-of-the-2026-season-tickets-on-general-sale-november-25.jpg",
       "author": "Psyonix Team",
       "date": "Nov 22nd 2025"
-    },
-    {
-      "title": "RLCS 2026 Kicks Off with Open 1",
-      "slug": "rlcs-2026-open-1",
-      "category": "Esports News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rlcs-2026-open-1.jpg",
-      "author": "Psyonix Team",
-      "date": "Nov 21st 2025"
     }
   ]
 }
