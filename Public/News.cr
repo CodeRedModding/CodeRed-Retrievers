@@ -1,9 +1,17 @@
 {
   "news": [
     {
+      "title": "New Rocket League Paris Major Bundle: All Net Sales Going to Competing Players & Teams",
+      "slug": "new-rocket-league-paris-major-bundle-all-net-sales-going-to-competing-players-and-teams",
+      "category": "Microtransaction News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/new-rocket-league-paris-major-bundle-all-net-sales-going-to-competing-players-and-teams.jpg",
+      "author": "Psyonix Team",
+      "date": "May 11th 2025"
+    },
+    {
       "title": "Easy Anti-Cheat Comes to Rocket League on PC Today",
       "slug": "easy-anti-cheat-comes-to-rocket-league-on-pc-today",
-      "category": "Gane News",
+      "category": "Game News",
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/easy-anti-cheat-comes-to-rocket-league-on-pc-today.jpg",
       "author": "Psyonix Team",
       "date": "Apr 28th 2025"
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-drop-rush-earn-in-game-items-fuel-the-next-season-hype.jpg",
       "author": "Psyonix Team",
       "date": "Dec 3rd 2025"
-    },
-    {
-      "title": "RLCS Returns to Boston for First Major of the 2026 Season - Tickets on General Sale November 25",
-      "slug": "rlcs-returns-to-boston-for-first-major-of-the-2026-season-tickets-on-general-sale-november-25",
-      "category": "Esports News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rlcs-returns-to-boston-for-first-major-of-the-2026-season-tickets-on-general-sale-november-25.jpg",
-      "author": "Psyonix Team",
-      "date": "Nov 22nd 2025"
     }
   ]
 }
