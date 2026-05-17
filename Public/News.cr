@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rocket League Paris Major Primer + On-Site Guide",
+      "slug": "rocket-league-paris-major-primer-on-site-guide",
+      "category": "Esports News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-paris-major-primer-on-site-guide.jpg",
+      "author": "Psyonix Team",
+      "date": "May 14th 2025"
+    },
+    {
       "title": "New Rocket League Paris Major Bundle: All Net Sales Going to Competing Players & Teams",
       "slug": "new-rocket-league-paris-major-bundle-all-net-sales-going-to-competing-players-and-teams",
       "category": "Microtransaction News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-season-21-pursuit-in-paris.jpg",
       "author": "Psyonix Team",
       "date": "Dec 5th 2025"
-    },
-    {
-      "title": "Rocket League Drop Rush: Earn In-Game Items, Fuel the Next Season Hype!",
-      "slug": "rocket-league-drop-rush-earn-in-game-items-fuel-the-next-season-hype",
-      "category": "Microtransaction News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-drop-rush-earn-in-game-items-fuel-the-next-season-hype.jpg",
-      "author": "Psyonix Team",
-      "date": "Dec 3rd 2025"
     }
   ]
 }
