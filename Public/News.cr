@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Ratatouille Comes to Rocket League",
+      "slug": "ratatouille-comes-to-rocket-league",
+      "category": "Microtransaction News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/ratatouille-comes-to-rocket-league.jpg",
+      "author": "Psyonix Team",
+      "date": "May 18th 2025"
+    },
+    {
       "title": "Rocket League Paris Major Primer + On-Site Guide",
       "slug": "rocket-league-paris-major-primer-on-site-guide",
       "category": "Esports News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-63.jpg",
       "author": "Psyonix Team",
       "date": "Dec 9th 2025"
-    },
-    {
-      "title": "Rocket League Season 21: Pursuit in Paris!",
-      "slug": "rocket-league-season-21-pursuit-in-paris",
-      "category": "Game News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-season-21-pursuit-in-paris.jpg",
-      "author": "Psyonix Team",
-      "date": "Dec 5th 2025"
     }
   ]
 }
