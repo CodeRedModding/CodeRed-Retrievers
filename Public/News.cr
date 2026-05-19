@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Drop Rush Is Back for the Rocket League Paris Major",
+      "slug": "drop-rush-is-back-for-the-rocket-league-paris-major",
+      "category": "Game News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/drop-rush-is-back-for-the-rocket-league-paris-major.jpg",
+      "author": "Psyonix Team",
+      "date": "May 19th 2025"
+    },
+    {
       "title": "Ratatouille Comes to Rocket League",
       "slug": "ratatouille-comes-to-rocket-league",
       "category": "Microtransaction News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-63-season-21-live.jpg",
       "author": "Psyonix Team",
       "date": "Dec 10th 2025"
-    },
-    {
-      "title": "Rocket League Patch Notes v2.63",
-      "slug": "rocket-league-patch-notes-v2-63",
-      "category": "Patch Notes",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-63.jpg",
-      "author": "Psyonix Team",
-      "date": "Dec 9th 2025"
     }
   ]
 }
