@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "A New Era of Team Vitality Enters the 2026 Rocket League Paris Major",
+      "slug": "a-new-era-of-team-vitality-enters-the-2026-rocket-league-paris-major",
+      "category": "Esports News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/a-new-era-of-team-vitality-enters-the-2026-rocket-league-paris-major.jpg",
+      "author": "Psyonix Team",
+      "date": "May 21st 2025"
+    },
+    {
+      "title": "Karmine Corp Chase Adrenaline at the 2026 Rocket League Paris Major",
+      "slug": "karmine-corp-chase-adrenaline-at-the-2026-rocket-league-paris-major",
+      "category": "Esports News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/karmine-corp-chase-adrenaline-at-the-2026-rocket-league-paris-major.jpg",
+      "author": "Psyonix Team",
+      "date": "May 20th 2025"
+    },
+    {
       "title": "Drop Rush Is Back for the Rocket League Paris Major",
       "slug": "drop-rush-is-back-for-the-rocket-league-paris-major",
       "category": "Game News",
@@ -119,22 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/cartmans-crash-out-the-boys-from-south-park-colorado-cause-chaos-in-rocket-league.jpg",
       "author": "Psyonix Team",
       "date": "Jan 21st 2025"
-    },
-    {
-      "title": "Rep Your Hogwarts House in Rocket League Frosty Fest 2025!",
-      "slug": "rep-your-hogwarts-house-in-rocket-league-frosty-fest-2025",
-      "category": "Game News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rep-your-hogwarts-house-in-rocket-league-frosty-fest-2025.jpg",
-      "author": "Psyonix Team",
-      "date": "Dec 18th 2025"
-    },
-    {
-      "title": "Rocket League Patch Notes v2.63: Season 21 Live",
-      "slug": "rocket-league-patch-notes-v2-63-season-21-live",
-      "category": "Game News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-63-season-21-live.jpg",
-      "author": "Psyonix Team",
-      "date": "Dec 10th 2025"
     }
   ]
 }
