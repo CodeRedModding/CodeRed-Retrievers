@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Karmine Corp clinch the win for a home crowd at the Rocket League Paris Major",
+      "slug": "karmine-corp-clinch-the-win-for-a-home-crowd-at-the-rocket-league-paris-major",
+      "category": "Esports News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/karmine-corp-clinch-the-win-for-a-home-crowd-at-the-rocket-league-paris-major.jpg",
+      "author": "Psyonix Team",
+      "date": "May 24th 2025"
+    },
+    {
       "title": "A New Era of Team Vitality Enters the 2026 Rocket League Paris Major",
       "slug": "a-new-era-of-team-vitality-enters-the-2026-rocket-league-paris-major",
       "category": "Esports News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-64.jpg",
       "author": "Psyonix Team",
       "date": "Jan 22nd 2025"
-    },
-    {
-      "title": "Cartman’s Crash Out: The Boys from South Park, Colorado Cause Chaos in Rocket League",
-      "slug": "cartmans-crash-out-the-boys-from-south-park-colorado-cause-chaos-in-rocket-league",
-      "category": "Microtransaction News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/cartmans-crash-out-the-boys-from-south-park-colorado-cause-chaos-in-rocket-league.jpg",
-      "author": "Psyonix Team",
-      "date": "Jan 21st 2025"
     }
   ]
 }
