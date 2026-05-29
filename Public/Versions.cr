@@ -1,5 +1,5 @@
 {
-	"signature": "f625019f100a05af78eb7db1d678597703dad04ce18439546cc52bcec06cd0ad1565a9811d10413a97e8fd815f1b17a8574d2bb50f9357b392ce2bfb461b7bfb",
+	"signature": "6c4d6294317a0046624ff2678d81158ef6e50d1d3f4145500798845978cbdb812e55fdd04eb20be47d1166468b9cf4c2a30bf0f76cdae2a6c1f7d973e4f2f412",
 	"ModuleVersion": "3.0.3",
 	"LauncherVersion": "1.4.6",
 	"DotNetVersion": "10.0",
