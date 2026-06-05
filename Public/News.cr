@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Hit the Pitch for the World Cup in Rocket League Season 23!",
+      "slug": "hit-the-pitch-for-the-world-cup-in-rocket-league-season-23",
+      "category": "Game News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/hit-the-pitch-for-the-world-cup-in-rocket-league-season-23.jpg",
+      "author": "Psyonix Team",
+      "date": "Jun 5th 2025"
+    },
+    {
       "title": "Karmine Corp clinch the win for a home crowd at the Rocket League Paris Major",
       "slug": "karmine-corp-clinch-the-win-for-a-home-crowd-at-the-rocket-league-paris-major",
       "category": "Esports News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/major-2-of-rlcs-2026-set-for-paris-tickets-available-starting-february-11.jpg",
       "author": "Psyonix Team",
       "date": "Feb 5th 2025"
-    },
-    {
-      "title": "Rocket League Patch Notes v2.64",
-      "slug": "rocket-league-patch-notes-v2-64",
-      "category": "Patch Notes",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-64.jpg",
-      "author": "Psyonix Team",
-      "date": "Jan 22nd 2025"
     }
   ]
 }
