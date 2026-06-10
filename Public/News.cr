@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rocket League Patch Notes v2.70: Season 23 Live",
+      "slug": "rocket-league-patch-notes-v270-season-23-live",
+      "category": "Patch Notes",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v270-season-23-live.jpg",
+      "author": "Psyonix Team",
+      "date": "Jun 9th 2025"
+    },
+    {
       "title": "Hit the Pitch for the World Cup in Rocket League Season 23!",
       "slug": "hit-the-pitch-for-the-world-cup-in-rocket-league-season-23",
       "category": "Game News",
