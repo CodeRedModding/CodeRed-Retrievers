@@ -1,8 +1,8 @@
 {
-	"signature": "ad1efecdf6e2c253512ca00340d51b7c3e0b445237cbc6f4dc1dac731b9f7ccb9285c40ac47947649b1abd4e5d0c29044ac2abf24234da1c348cde690d834a01",
+	"signature": "703c03f4b78ddb2cb05977e52fd1743ade5c52035c35aae69d4f60fb5e08a04474ccbce4ebaac69579e98231df44d6e0b9a0095820e1d6d8105a5830abc61913",
 	"ModuleVersion": "3.0.4",
 	"LauncherVersion": "1.4.6",
 	"DotNetVersion": "10.0",
-	"PsyonixVersion": "260602.75104.519749",
-	"PsyonixBuildId ": "939334844"
+	"PsyonixVersion": "260616.79869.520762",
+	"PsyonixBuildId ": "102852329"
 }
