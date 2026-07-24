@@ -1,6 +1,6 @@
 {
-	"signature": "1724acc03c226c6c71ad4d96a027a51c2d888456ea54281a724f0be57dc5a5b4a4baffc405a7b1a93a517875a01475468b2ac7c59e62e618a636cccd72043c10",
-	"ModuleVersion": "3.0.5",
+	"signature": "0bc663b73817d2fe26300fc9d5ca86a74f477297b687110aba4d8540eacc088da337ba7ac201b44f38842a1a909bad825d8a244537ba589bc8e476ba18d80aaf",
+	"ModuleVersion": "3.0.6",
 	"LauncherVersion": "1.4.6",
 	"DotNetVersion": "10.0",
 	"PsyonixVersion": "260616.79869.520762",
