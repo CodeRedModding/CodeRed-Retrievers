@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rocket League Patch Notes v2.72",
+      "slug": "rocket-league-patch-notes-v2-72",
+      "category": "Patch Notes",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-72.jpg",
+      "author": "Psyonix Team",
+      "date": "Aug 4th 2025"
+    },
+    {
       "title": "Rocket League Patch Notes v2.70: Season 23 Live",
       "slug": "rocket-league-patch-notes-v270-season-23-live",
       "category": "Patch Notes",
@@ -135,14 +143,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/earn-sweet-in-game-rewards-in-rocket-league-goalentines.jpg",
       "author": "Psyonix Team",
       "date": "Feb 6th 2025"
-    },
-    {
-      "title": "Major 2 of RLCS 2026 Set for Paris - Tickets Available Starting February 11",
-      "slug": "major-2-of-rlcs-2026-set-for-paris-tickets-available-starting-february-11",
-      "category": "Esports News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/major-2-of-rlcs-2026-set-for-paris-tickets-available-starting-february-11.jpg",
-      "author": "Psyonix Team",
-      "date": "Feb 5th 2025"
     }
   ]
 }
