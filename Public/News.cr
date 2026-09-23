@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rocket League S24 Patch Notes v2.76",
+      "slug": "rocket-league-s24-patch-notes-v276",
+      "category": "Patch Notes",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-s24-patch-notes-v276.jpg",
+      "author": "Psyonix Team",
+      "date": "Sep 22nd 2026"
+    },
+    {
       "title": "RLCS Returns To London This December For The Club Championship With $2.5M Up For Grabs",
       "slug": "rlcs-returns-to-london-this-december-for-the-club-championship-with-dollar25m-up-for-grabs",
       "category": "Esports News",
@@ -135,14 +143,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/from-the-court-to-the-pitch-unlock-jordan-items-in-rocket-league-starting-march-26.jpg",
       "author": "Psyonix Team",
       "date": "Mar 25th 2026"
-    },
-    {
-      "title": "Rocket League Patch Notes v2.66: Season 22 Live",
-      "slug": "rocket-league-patch-notes-v2-66-season-22-live",
-      "category": "Game News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v2-66-season-22-live.jpg",
-      "author": "Psyonix Team",
-      "date": "Mar 11th 2026"
     }
   ]
 }
