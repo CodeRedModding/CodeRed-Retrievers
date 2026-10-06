@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rocket League Patch Notes v2.77",
+      "slug": "rocket-league-patch-notes-v277",
+      "category": "Patch Notes",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-patch-notes-v277.jpg",
+      "author": "Psyonix Team",
+      "date": "Oct 6th 2026"
+    },
+    {
       "title": "Rocket League S24 Patch Notes v2.76",
       "slug": "rocket-league-s24-patch-notes-v276",
       "category": "Patch Notes",
@@ -135,14 +143,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/easy-anti-cheat-comes-to-rocket-league-on-pc-today.jpg",
       "author": "Psyonix Team",
       "date": "Apr 28th 2026"
-    },
-    {
-      "title": "From the Court to the Pitch - Unlock Jordan Items in Rocket League Starting March 26",
-      "slug": "from-the-court-to-the-pitch-unlock-jordan-items-in-rocket-league-starting-march-26",
-      "category": "Microtransaction News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/from-the-court-to-the-pitch-unlock-jordan-items-in-rocket-league-starting-march-26.jpg",
-      "author": "Psyonix Team",
-      "date": "Mar 25th 2026"
     }
   ]
 }
