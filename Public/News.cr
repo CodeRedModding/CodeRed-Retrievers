@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Rocket League S24 Patch Notes v2.78",
+      "slug": "rocket-league-s24-patch-notes-v278",
+      "category": "Patch Notes",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-s24-patch-notes-v278.jpg",
+      "author": "Psyonix Team",
+      "date": "Oct 20th 2026"
+    },
+    {
       "title": "Rocket League Patch Notes v2.77",
       "slug": "rocket-league-patch-notes-v277",
       "category": "Patch Notes",
@@ -135,14 +143,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/new-rocket-league-paris-major-bundle-all-net-sales-going-to-competing-players-and-teams.jpg",
       "author": "Psyonix Team",
       "date": "May 11th 2026"
-    },
-    {
-      "title": "Easy Anti-Cheat Comes to Rocket League on PC Today",
-      "slug": "easy-anti-cheat-comes-to-rocket-league-on-pc-today",
-      "category": "Game News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/easy-anti-cheat-comes-to-rocket-league-on-pc-today.jpg",
-      "author": "Psyonix Team",
-      "date": "Apr 28th 2026"
     }
   ]
 }
