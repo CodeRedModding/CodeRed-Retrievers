@@ -135,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/ratatouille-comes-to-rocket-league.jpg",
       "author": "Psyonix Team",
       "date": "May 18, 2026"
-    },
-    {
-      "title": "Rocket League Paris Major Primer + On-Site Guide",
-      "slug": "rocket-league-paris-major-primer-on-site-guide",
-      "category": "Esports News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/rocket-league-paris-major-primer-on-site-guide.jpg",
-      "author": "Psyonix Team",
-      "date": "May 14, 2026"
     }
   ]
 }
