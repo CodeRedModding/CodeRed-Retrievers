@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Adventure Awaits in Rocket League x One Piece",
+      "slug": "adventure-awaits-in-rocket-league-x-one-piece",
+      "category": "Microtransaction News",
+      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/adventure-awaits-in-rocket-league-x-one-piece.jpg",
+      "author": "Psyonix Team",
+      "date": "Oct 30, 2026"
+    },
+    {
       "title": "Survive the Pitch: Five Nights at Freddy's Haunts Rocket League",
       "slug": "survive-the-pitch-five-nights-at-freddys-haunts-rocket-league",
       "category": "Game News",
@@ -127,14 +135,6 @@
       "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/drop-rush-is-back-for-the-rocket-league-paris-major.jpg",
       "author": "Psyonix Team",
       "date": "May 19, 2026"
-    },
-    {
-      "title": "Ratatouille Comes to Rocket League",
-      "slug": "ratatouille-comes-to-rocket-league",
-      "category": "Microtransaction News",
-      "imageUrl": "https://raw.githubusercontent.com/CodeRedModding/CodeRed-Retrievers/refs/heads/main/Assets/News/ratatouille-comes-to-rocket-league.jpg",
-      "author": "Psyonix Team",
-      "date": "May 18, 2026"
     }
   ]
 }
