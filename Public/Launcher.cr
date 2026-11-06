@@ -1,6 +1,6 @@
 {
-	"signature": "256027975a599bb399a58540d8c74f6d57acf1fe0b5869756f41f4d827c3962b6de94a1dc706cc4edd0a26691c4b05ed55a833a3998d78dc6f4714d56a640ad7",
-	"PsyonixVersion": "261013.63066.530866",
+	"signature": "e1ec5023eb52742117b0bc1b03a778938825ddca8589163b8d3944ec0e76f105035418cf284eb7b03cbe6a7c9dbe9fbca865305ea7955981d534820ac20f63b8",
+	"PsyonixVersion": "261031.63733.533021",
 	"LauncherVersion": "1.4.6",
 	"ModuleVersion": "3.1.7",
 	"UninstallerUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v3.1.7/CodeRedUninstaller.zip",
