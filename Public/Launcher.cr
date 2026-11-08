@@ -1,8 +1,9 @@
 {
-	"signature": "e1ec5023eb52742117b0bc1b03a778938825ddca8589163b8d3944ec0e76f105035418cf284eb7b03cbe6a7c9dbe9fbca865305ea7955981d534820ac20f63b8",
+	"signature": "44e88fb68d225575e0ad90b49a1cde759a1aab15184d930771f14fe315af4d23fc9ee6c01fb4d7da59b1cc7d3fa23a073c53998409e24bad9fe50cfcf9d10b55",
 	"PsyonixVersion": "261031.63733.533021",
-	"LauncherVersion": "1.4.6",
+	"LauncherVersion": "1.4.7",
 	"ModuleVersion": "3.1.7",
+	"DotNetFramework": "10.0",
 	"UninstallerUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v3.1.7/CodeRedUninstaller.zip",
 	"LauncherUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v3.1.7/CodeRedLauncher.zip",
 	"ModuleUrl": "https://github.com/CodeRedModding/CodeRed-Launcher/releases/download/v3.1.7/CodeRedModule.zip",
@@ -11,12 +12,11 @@
 	"DiscordUrl": "https://discord.gg/FzEc7mFwjz",
 	"KofiUrl": "https://ko-fi.com/coderedmodding/",
 	"NewsUrl": "https://www.rocketleague.com/en/news/",
-	"LauncherChangelog": "Upgraded from `.NET 9.0` to `.NET 10.0`, which will require you to download the new runtime if you only have `.NET 9.0` installed.\nRewrote how dll injection is handled, it is much safer with more detailed error reporting, and it also now uses `LoadLibraryW` instead of `LoadLibraryA`.\nThe prevent injection if EAC is detected setting is now disabled by default for new users, injection will just fail gracefully if attempted to inject with EAC.\nRemoved the `Launch Rocket League` button to avoid confusion, as it required the user to manually put `-noeac` in their launch parameters.\nFixed the process status being stuck saying `East Anti-Cheat Detected` instead of saying if rocket league is running or not.\nIncreased the default injection time for new users from `2500` to `3500`.",
+	"LauncherChangelog": "Added a new `.NET` version check, if the launchers `.NET` version changes you will now be prompted to install the latest version before attempting to update the launcher.\nRewrote all the custom UI controls internally, also added more details such as highlights when hovering over certain UI elements or clicking things.\nChanged all the `blob / circle` graphics that are in the background of each tab, they are also higher resolution and scale better.\nFixed the `change install path` popup displaying the wrong text when in offline mode.\nMemory optimizations and lots of internal code refactoring.",
 	"ModuleChangelog": "Updated the internal SDK to the latest version of Rocket League.",
 	"Credits": "Bakkes, Martinn, TaylorSasser, ButternCream, GlenHumphrey, Segal, ToolB0x, lchmagKekse, MrMythical, Megasplat, and Stev",
 	"Supporters": "Synexe, MisterDrProf, Th3Ant, AngaBlue, FreeAOL, MrReiner, Miragesteezyboi, Redtracx, Emilybaddie, Kaorikitty, MrPhil, Reavinho, NiloXV, Jan1, Techo, Munchkin, and Wheatmaize",
 	"Disclaimer": "CodeRed is not officially approved by Psyonix or Epic Games, however, CodeRed still follows Rocket League's ToU, EULA, and rules regarding third party modding. CodeRed does not provide a competitive advantage in online play, expose unreleased features/content, or abuse Rocket League's services.",
 	"LauncherAlt": "null",
-	"AltEndpoint": "false",
-	"DotNetFramework": "10.0"
+	"AltEndpoint": "false"
 }
